@@ -50,4 +50,4 @@ image: "/assets/uploads/2022/10/Lampu-IC-ECO60-2021-page-small-scaled.jpg"
 
 <p>LIFE TIME 5-7 Years</p>
 
-<img class="alignnone size-full wp-image-660" src="/assets/uploads/2022/10/Lampu-IC-ECO60-2021-page-small-scaled.jpg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-660" src="{{site.baseurl}}/assets/uploads/2022/10/Lampu-IC-ECO60-2021-page-small-scaled.jpg" alt="" width="667" height="1000">

@@ -14,4 +14,4 @@ image: "/assets/uploads/2024/02/Lampu-IC-FIN120-20211-scaled.jpg"
 
 <p>&nbsp;</p>
 
-<img class="alignnone size-full wp-image-698" src="/assets/uploads/2024/02/Lampu-IC-FIN120-20211-scaled.jpg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-698" src="{{site.baseurl}}/assets/uploads/2024/02/Lampu-IC-FIN120-20211-scaled.jpg" alt="" width="667" height="1000">

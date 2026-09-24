@@ -12,6 +12,6 @@ image: "/assets/uploads/2024/02/Salinan-02-SY-BIMN-2022-60W-min-scaled.jpg"
 
 <p>SY-BIMN 2022 - 60W</p>
 
-<img class="alignnone size-full wp-image-704" src="/assets/uploads/2024/02/Salinan-02-SY-BIMN-2022-60W-min-scaled.jpg" alt="" width="718" height="1000">
+<img class="alignnone size-full wp-image-704" src="{{site.baseurl}}/assets/uploads/2024/02/Salinan-02-SY-BIMN-2022-60W-min-scaled.jpg" alt="" width="718" height="1000">
 
 <p>&nbsp;</p>

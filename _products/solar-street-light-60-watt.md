@@ -46,4 +46,4 @@ image: "/assets/uploads/2022/10/60W-scaled.jpeg"
 
 <p>I C 0 M</p>
 
-<img class="alignnone wp-image-613 size-full" src="/assets/uploads/2022/10/60W-scaled.jpeg" alt="" width="712" height="1000">
+<img class="alignnone wp-image-613 size-full" src="{{site.baseurl}}/assets/uploads/2022/10/60W-scaled.jpeg" alt="" width="712" height="1000">

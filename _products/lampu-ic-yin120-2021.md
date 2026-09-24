@@ -10,4 +10,4 @@ permalink: /product/lampu-ic-yin120-2021/
 image: "/assets/uploads/2022/10/Lampu-IC-YIN120-2021-small-scaled.jpg"
 ---
 
-<img class="alignnone size-full wp-image-667" src="/assets/uploads/2022/10/Lampu-IC-YIN120-2021-small-scaled.jpg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-667" src="{{site.baseurl}}/assets/uploads/2022/10/Lampu-IC-YIN120-2021-small-scaled.jpg" alt="" width="667" height="1000">

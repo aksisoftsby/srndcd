@@ -10,4 +10,4 @@ permalink: /product/blue-sky-solar-street-light-blue-sky-light-2-0/
 image: "/assets/uploads/2022/10/BLUE-SKY-scaled.jpeg"
 ---
 
-<img class="alignnone size-full wp-image-649" src="/assets/uploads/2022/10/BLUE-SKY-scaled.jpeg" alt="" width="707" height="1000">
+<img class="alignnone size-full wp-image-649" src="{{site.baseurl}}/assets/uploads/2022/10/BLUE-SKY-scaled.jpeg" alt="" width="707" height="1000">

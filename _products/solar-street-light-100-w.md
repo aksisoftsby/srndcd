@@ -42,4 +42,4 @@ image: "/assets/uploads/2022/10/AIO-ICOM-100W-NEW-scaled.jpeg"
 
 <p>PRODUCT SIZE 1200x418x45 mm</p>
 
-<img class="alignnone size-full wp-image-619" src="/assets/uploads/2022/10/AIO-ICOM-100W-NEW-scaled.jpeg" alt="" width="712" height="1000">
+<img class="alignnone size-full wp-image-619" src="{{site.baseurl}}/assets/uploads/2022/10/AIO-ICOM-100W-NEW-scaled.jpeg" alt="" width="712" height="1000">

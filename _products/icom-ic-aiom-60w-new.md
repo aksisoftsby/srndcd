@@ -10,4 +10,4 @@ permalink: /product/icom-ic-aiom-60w-new/
 image: "/assets/uploads/2022/10/ICOM-IC-AIOM-60W-NEW-scaled.jpeg"
 ---
 
-<img class="alignnone size-full wp-image-657" src="/assets/uploads/2022/10/ICOM-IC-AIOM-60W-NEW-scaled.jpeg" alt="" width="700" height="1000">
+<img class="alignnone size-full wp-image-657" src="{{site.baseurl}}/assets/uploads/2022/10/ICOM-IC-AIOM-60W-NEW-scaled.jpeg" alt="" width="700" height="1000">

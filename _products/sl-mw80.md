@@ -46,4 +46,4 @@ image: "/assets/uploads/2022/10/80W_Page1-scaled.jpeg"
 
 <p>GROSS WEIGHT 16. KG</p>
 
-<img class="alignnone size-full wp-image-669" src="/assets/uploads/2022/10/80W_Page1-scaled.jpeg" alt="" width="667" height="1000"> <img class="alignnone size-full wp-image-670" src="/assets/uploads/2022/10/80W_Page2-scaled.jpeg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-669" src="{{site.baseurl}}/assets/uploads/2022/10/80W_Page1-scaled.jpeg" alt="" width="667" height="1000"> <img class="alignnone size-full wp-image-670" src="{{site.baseurl}}/assets/uploads/2022/10/80W_Page2-scaled.jpeg" alt="" width="667" height="1000">

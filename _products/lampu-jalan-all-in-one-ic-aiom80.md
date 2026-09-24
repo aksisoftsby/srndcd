@@ -56,4 +56,4 @@ image: "/assets/uploads/2022/10/80W.jpeg"
 
 <p>Box Size : 114x91x18 cm</p>
 
-<img class="alignnone wp-image-615 size-full" src="/assets/uploads/2022/10/80W.jpeg" alt="" width="664" height="833">
+<img class="alignnone wp-image-615 size-full" src="{{site.baseurl}}/assets/uploads/2022/10/80W.jpeg" alt="" width="664" height="833">

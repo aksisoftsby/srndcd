@@ -10,4 +10,4 @@ permalink: /product/crossbow-30w/
 image: "/assets/uploads/2022/10/Crossbow-30W-scaled.jpeg"
 ---
 
-<img class="alignnone size-full wp-image-651" src="/assets/uploads/2022/10/Crossbow-30W-scaled.jpeg" alt="" width="707" height="1000">
+<img class="alignnone size-full wp-image-651" src="{{site.baseurl}}/assets/uploads/2022/10/Crossbow-30W-scaled.jpeg" alt="" width="707" height="1000">

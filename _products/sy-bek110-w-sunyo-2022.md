@@ -12,4 +12,4 @@ image: "/assets/uploads/2024/02/SY-BEK110-SUNYO-2022_Page1-min-scaled.jpg"
 
 <p>SY-BEK110 SUNYO 2022</p>
 
-<img class="alignnone size-full wp-image-712" src="/assets/uploads/2024/02/SY-BEK110-SUNYO-2022_Page1-min-scaled.jpg" alt="" width="725" height="1000"> <img class="alignnone size-full wp-image-713" src="/assets/uploads/2024/02/SY-BEK110-SUNYO-2022_Page2-min.jpg" alt="">
+<img class="alignnone size-full wp-image-712" src="{{site.baseurl}}/assets/uploads/2024/02/SY-BEK110-SUNYO-2022_Page1-min-scaled.jpg" alt="" width="725" height="1000"> <img class="alignnone size-full wp-image-713" src="{{site.baseurl}}/assets/uploads/2024/02/SY-BEK110-SUNYO-2022_Page2-min.jpg" alt="">

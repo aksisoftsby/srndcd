@@ -52,4 +52,4 @@ image: "/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-120W-scaled.jpeg"
 
 <p>: 130W 6V : 25 Years : LifePo4 : 70AH 3.2V : 5-8 Years : 8 Hours : 12 Hours : 30-60 degree : Dimmer : 6-8 meters : 15-25 meters : Aluminum Alloy : IP65 : 11.8 kg : 107.3.37*10 cm</p>
 
-<img class="alignnone size-full wp-image-625" src="/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-120W-scaled.jpeg" alt="" width="668" height="1000">
+<img class="alignnone size-full wp-image-625" src="{{site.baseurl}}/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-120W-scaled.jpeg" alt="" width="668" height="1000">

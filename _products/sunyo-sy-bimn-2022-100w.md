@@ -12,4 +12,4 @@ image: "/assets/uploads/2024/02/SY-BIMN-2022-100W-scaled.jpg"
 
 <p>SUNYO SY-BIMN 2022 - 100W</p>
 
-<img class="alignnone size-full wp-image-709" src="/assets/uploads/2024/02/SY-BIMN-2022-100W-scaled.jpg" alt="" width="718" height="1000">
+<img class="alignnone size-full wp-image-709" src="{{site.baseurl}}/assets/uploads/2024/02/SY-BIMN-2022-100W-scaled.jpg" alt="" width="718" height="1000">

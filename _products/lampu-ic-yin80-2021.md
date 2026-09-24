@@ -50,4 +50,4 @@ image: "/assets/uploads/2022/10/Lampu-IC-YIN80-2021-small-scaled.jpg"
 
 <p>LIFE TIME 5-7 Years</p>
 
-<img class="alignnone size-full wp-image-665" src="/assets/uploads/2022/10/Lampu-IC-YIN80-2021-small-scaled.jpg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-665" src="{{site.baseurl}}/assets/uploads/2022/10/Lampu-IC-YIN80-2021-small-scaled.jpg" alt="" width="667" height="1000">

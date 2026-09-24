@@ -56,4 +56,4 @@ image: "/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-180W-scaled.jpeg"
 
 <p>Box Size : 141.7*37*10 cm</p>
 
-<img class="alignnone size-full wp-image-631" src="/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-180W-scaled.jpeg" alt="" width="661" height="1000">
+<img class="alignnone size-full wp-image-631" src="{{site.baseurl}}/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-180W-scaled.jpeg" alt="" width="661" height="1000">

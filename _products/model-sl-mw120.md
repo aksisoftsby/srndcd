@@ -42,4 +42,4 @@ image: "/assets/uploads/2022/10/SL-MW120_merged_Page1-scaled.jpg"
 
 <p>GROSS WEIGHT 17.8KG</p>
 
-<img class="alignnone size-full wp-image-675" src="/assets/uploads/2022/10/SL-MW120_merged_Page1-scaled.jpg" alt="" width="667" height="1000"> <img class="alignnone size-full wp-image-676" src="/assets/uploads/2022/10/SL-MW120_merged_Page2-scaled.jpg" alt="" width="667" height="1000">
+<img class="alignnone size-full wp-image-675" src="{{site.baseurl}}/assets/uploads/2022/10/SL-MW120_merged_Page1-scaled.jpg" alt="" width="667" height="1000"> <img class="alignnone size-full wp-image-676" src="{{site.baseurl}}/assets/uploads/2022/10/SL-MW120_merged_Page2-scaled.jpg" alt="" width="667" height="1000">

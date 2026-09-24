@@ -10,7 +10,7 @@ permalink: /product/solar-street-light-40w/
 image: "/assets/uploads/2022/10/40W-scaled.jpeg"
 ---
 
-<img class="alignnone wp-image-608 size-full" src="/assets/uploads/2022/10/40W-scaled.jpeg" alt="" width="706" height="1000">
+<img class="alignnone wp-image-608 size-full" src="{{site.baseurl}}/assets/uploads/2022/10/40W-scaled.jpeg" alt="" width="706" height="1000">
 
 <p>Solar Street Light</p>
 
