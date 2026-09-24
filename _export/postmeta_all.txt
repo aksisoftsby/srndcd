@@ -1,0 +1,7 @@
+bash: line 1: pju.surabaya-ad.com: command not found
+bash: line 1: pju.surabaya-ad.com: command not found
+--------------
+SELECT post_id, meta_key, meta_value FROM .wp_postmeta WHERE post_id IN (SELECT ID FROM .wp_posts WHERE post_status='publish' AND post_type IN ('page','post','product')) AND meta_key IN ('_thumbnail_id','_price','_regular_price','_sale_price','_sku','_product_image_gallery','_wp_page_template','_elementor_data') ORDER BY post_id
+--------------
+
+ERROR 1046 (3D000) at line 1: No database selected

@@ -1,0 +1,58 @@
+2025-11-19T00:22:02+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T00:48:46+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T05:34:32+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T05:34:36+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T09:09:12+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T09:09:16+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T09:09:27+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T09:10:42+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T09:55:38+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T10:09:35+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T10:38:56+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T12:06:53+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T13:03:22+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T13:04:39+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T14:32:04+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T17:11:50+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php on line 368
+
+2025-11-19T19:07:58+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:08:00+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:08:02+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:41:17+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:47:08+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:47:10+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T19:47:10+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T20:14:09+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T21:06:45+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T21:07:18+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T21:07:35+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T21:07:45+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+
+2025-11-19T21:25:20+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` di /var/www/html/surendo.co.id/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php pada baris 368
+

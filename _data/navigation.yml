@@ -1,0 +1,31 @@
+- title: Home
+  url: /
+- title: Profil
+  url: /profil/
+- title: Produk
+  url: /produk/
+  children:
+    - title: Paket PJU Solarcell Standar
+      url: /product-category/pju-solarcell-stando/
+    - title: Paket PJU Solarcell ALL IN ONE
+      url: /product-category/pju-solarcell-suritech-allinone/
+    - title: Paket PJU Solarcell Two in One
+      url: /product-category/pju-solarcell-suritech-2-in-1/
+    - title: Warning Light Solarcell
+      url: /product-category/warninglight-solarcell/
+    - title: PLTS On Grid
+      url: /product-category/stando/
+    - title: PLTS Off Grid
+      url: /product-category/pju-tenaga-surya/
+    - title: PLTS Hybrid
+      url: /product-category/battery-box-battery/
+    - title: Pompa Lorentz
+      url: /product-category/suritech/
+- title: Gallery
+  url: /surendo-pt-surya-energy-indonesia-group/
+- title: Referensi Project
+  url: /referensi-project-surya-energy-indonesia/
+- title: Hubungi Kami
+  url: /hubungi-kami/
+- title: Katalog / Brosur
+  url: /katalog/

@@ -1,0 +1,10 @@
+<form class="contact-form" action="https://formspree.io/f/{{ site.formspree_id }}" method="POST">
+  <p><label>Nama (*)<br><input type="text" name="nama" required></label></p>
+  <p><label>Email (*)<br><input type="email" name="email" required></label></p>
+  <p><label>Nomor HP (*)<br><input type="text" name="telepon"></label></p>
+  <p><label>Subjek<br><input type="text" name="subjek"></label></p>
+  <p><label>Pesan (*)<br><textarea name="pesan" rows="6" required></textarea></label></p>
+  <input type="hidden" name="_subject" value="Pesan dari form kontak surendo.co.id">
+  <p><button class="btn" type="submit">Kirim Pesan</button></p>
+</form>
+<p class="note">Form kontak ini dikirim via Formspree (ganti <code>formspree_id</code> di <code>_config.yml</code> dengan ID form Anda), karena Contact Form 7 tidak berjalan pada situs statis.</p>

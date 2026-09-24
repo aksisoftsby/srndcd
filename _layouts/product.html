@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="product">
+  <nav class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/produk/' | relative_url }}">Produk</a> / {{ page.title }}</nav>
+  <div class="product-grid">
+    <div class="product-gallery">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" onerror="this.onerror=null;this.src='https://surendo.co.id{{ page.image }}'" />
+      {% if page.gallery %}
+      <div class="thumbs">{% for g in page.gallery %}<img src="{{ g | relative_url }}" alt="{{ page.title }}" loading="lazy" onerror="this.onerror=null;this.src='https://surendo.co.id{{ g }}'" />{% endfor %}</div>
+      {% endif %}
+    </div>
+    <div class="product-info">
+      <h1>{{ page.title }}</h1>
+      {% if page.sku %}<p class="sku">SKU: {{ page.sku }}</p>{% endif %}
+      {% if page.categories %}<p class="cats">Kategori: {% for c in page.categories %}<a href="{{ '/product-category/' | append: c.slug | append: '/' | relative_url }}">{{ c.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
+      <div class="product-desc">{{ content }}</div>
+      <div class="cta">
+        <a class="btn wa" href="{{ site.whatsapp.danang }}" target="_blank" rel="noopener">Danang 082276398888 (call/WA)</a>
+        <a class="btn wa" href="{{ site.whatsapp.imey }}" target="_blank" rel="noopener">Imey 081220152888 (call/WA)</a>
+        <a class="btn wa" href="{{ site.whatsapp.cs }}" target="_blank" rel="noopener">CS 081220141999 (call)</a>
+      </div>
+    </div>
+  </div>
+  {% if page.related %}
+  <section class="related"><h2>Produk Terkait</h2><div class="cards">
+    {% for r in page.related %}{% assign rp = site.products | where: 'slug', r | first %}{% if rp %}{% include product-card.html p=rp %}{% endif %}{% endfor %}
+  </div></section>
+  {% endif %}
+</article>

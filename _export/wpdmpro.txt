@@ -1,0 +1,6 @@
+bash: line 1: pju.surabaya-ad.com: command not found
+--------------
+SELECT ID, post_title, post_name, post_content, post_excerpt, guid FROM .wp_posts WHERE post_type='wpdmpro' AND post_status='publish' ORDER BY ID
+--------------
+
+ERROR 1046 (3D000) at line 1: No database selected

@@ -1,0 +1,40 @@
+url: "https://surendo.co.id"
+baseurl: ""
+title: "SURENDO – CV. SURYA ENERGY INDONESIA"
+description: "Pabrikasi tiang Penerangan Jalan Umum dan Energi Terbarukan. Penyedia energi terbarukan sejak 2008 – PJU Solarcell, PLTS On/Off Grid, Hybrid, Pompa Lorentz."
+lang: id
+permalink: /:title/
+collections:
+  products:
+    output: true
+    permalink: /product/:slug/
+  product_categories:
+    output: true
+    permalink: /product-category/:slug/
+  downloads:
+    output: true
+    permalink: /download/:slug/
+defaults:
+  - scope: { path: "", type: products }
+    values: { layout: product }
+  - scope: { path: "", type: product_categories }
+    values: { layout: category }
+  - scope: { path: "", type: downloads }
+    values: { layout: download }
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .github
+  - .gitignore
+  - vendor
+keep_files: [download]
+plugins: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
+# Form kontak statis (Contact Form 7 tidak bisa jalan di situs statis)
+formspree_id: "YOUR_FORM_ID"
+whatsapp:
+  danang: "https://wa.me/6282276398888"
+  imey: "https://wa.me/6281220152888"
+  cs: "https://wa.me/6281220141999"

@@ -1,0 +1,25 @@
+- name: PJU Solarcell STANDO
+  slug: pju-solarcell-stando
+  url: /product-category/pju-solarcell-stando/
+  count: 6
+  description: Paket PJU Tenaga Surya Standar (terpisah tiang, panel, baterai, lampu).
+- name: PJU Solarcell All in One
+  slug: pju-solarcell-suritech-allinone
+  url: /product-category/pju-solarcell-suritech-allinone/
+  count: 12
+  description: Lampu jalan All-in-One (panel + baterai + lampu satu kesatuan).
+- name: PJU Solarcell 2 In 1
+  slug: pju-solarcell-suritech-2-in-1
+  url: /product-category/pju-solarcell-suritech-2-in-1/
+  count: 17
+  description: Lampu jalan 2-in-1 Suritech.
+- name: Warning Light Solarcell
+  slug: warninglight-solarcell
+  url: /product-category/warninglight-solarcell/
+  count: 0
+  description: Warning light tenaga surya.
+- name: Brosur
+  slug: brosur
+  url: /katalog/brosur/
+  count: 11
+  description: Kumpulan brosur produk.

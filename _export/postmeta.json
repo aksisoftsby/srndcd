@@ -1,0 +1,5092 @@
+[
+    {
+        "post_id": "2",
+        "meta_key": "_wp_page_template",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "5",
+        "meta_key": "_wp_page_template",
+        "meta_value": "template-login-designer.php"
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_edit_lock",
+        "meta_value": "1548902887:1"
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_wp_page_template",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "117",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708583548:3"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_edit_mode",
+        "meta_value": "builder"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_template_type",
+        "meta_value": "wp-post"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_wp_page_template",
+        "meta_value": "elementor_header_footer"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_data",
+        "meta_value": "[{\"id\":\"5556af72\",\"elType\":\"section\",\"settings\":{\"gap\":\"no\",\"custom_height\":{\"unit\":\"px\",\"size\":700},\"content_position\":\"middle\",\"structure\":\"20\",\"padding\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"0\",\"bottom\":\"100\",\"left\":\"0\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"25\",\"bottom\":\"100\",\"left\":\"25\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"20\",\"bottom\":\"50\",\"left\":\"20\",\"isLinked\":false},\"reverse_order_mobile\":\"reverse-mobile\"},\"elements\":[{\"id\":\"59f99038\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"30\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"15\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_inline_size_tablet\":45,\"margin_mobile\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"55ac77fe\",\"elType\":\"widget\",\"settings\":{\"address\":\"SOLAR ENERGY INDONESIA (SURENDO)\",\"zoom\":{\"unit\":\"px\",\"size\":18},\"height\":{\"unit\":\"px\",\"size\":500}},\"elements\":[],\"widgetType\":\"google_maps\"}],\"isInner\":false},{\"id\":\"3a917cc\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"30\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"15\",\"isLinked\":false},\"_inline_size_tablet\":55},\"elements\":[{\"id\":\"667fda22\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"margin\":{\"unit\":\"px\",\"top\":\"\",\"right\":0,\"bottom\":\"\",\"left\":0,\"isLinked\":true},\"padding\":{\"unit\":\"px\",\"top\":\"20\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"71395c75\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null},\"elements\":[{\"id\":\"7fb8dc95\",\"elType\":\"widget\",\"settings\":{\"title\":\"Alamat\",\"header_size\":\"div\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":18},\"typography_font_weight\":\"600\",\"typography_text_transform\":\"uppercase\",\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"63b11020\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><font color=\\\"#333333\\\">Jl. Raya medayu utara kav. 27&nbsp;Rungkut Surabaya<\\/font><\\/p>\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.8}},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":true},{\"id\":\"54b6b5cb\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"margin_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"10\",\"isLinked\":false}},\"elements\":[{\"id\":\"34558e94\",\"elType\":\"widget\",\"settings\":{\"title\":\"Nomor HP\",\"header_size\":\"div\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":18},\"typography_font_weight\":\"600\",\"typography_text_transform\":\"uppercase\",\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"5a110d5c\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><span style=\\\"color: #333333;\\\">0822-7639-8888 (Imey)<\\/span><\\/p>\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"7febf9c\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><span style=\\\"color: #333333;\\\">0812-2015-2888 (Imey)<\\/span><\\/p>\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"257c1c67\",\"elType\":\"widget\",\"settings\":{\"editor\":\"\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\",\"_margin\":{\"unit\":\"px\",\"top\":\"-18\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":true}],\"isInner\":true},{\"id\":\"2b7b6140\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":true},\"padding\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"3a05dd30\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null},\"elements\":[{\"id\":\"321bf4c\",\"elType\":\"widget\",\"settings\":{\"title\":\"Jam Operasional\",\"header_size\":\"div\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":18},\"typography_font_weight\":\"600\",\"typography_text_transform\":\"uppercase\",\"_margin\":{\"unit\":\"px\",\"top\":\"-10\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"75ed672e\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><span style=\\\"color: #333333;\\\">SENIN-SABTU 09:00 - 19:00<\\/span><\\/p>\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15},\"typography_font_weight\":\"300\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":true},{\"id\":\"7d4ff576\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"margin_tablet\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"10\",\"isLinked\":false}},\"elements\":[{\"id\":\"5bc76ad7\",\"elType\":\"widget\",\"settings\":{\"title\":\"Follow Us\",\"header_size\":\"div\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":18},\"typography_font_weight\":\"600\",\"typography_text_transform\":\"uppercase\",\"_margin\":{\"unit\":\"px\",\"top\":\"-10\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"6214ad8f\",\"elType\":\"widget\",\"settings\":{\"social_icon_list\":[{\"social\":\"fa fa-instagram\",\"_id\":\"2d0da0c\",\"link\":{\"url\":\"https:\\/\\/www.instagram.com\\/suryaenergiindonesia\",\"is_external\":\"true\",\"nofollow\":\"\"}},{\"social\":\"fa fa-twitter\",\"_id\":\"914746e\",\"link\":{\"url\":\"\",\"is_external\":\"true\",\"nofollow\":\"\"}},{\"social\":\"fa fa-facebook\",\"_id\":\"8a28a95\",\"link\":{\"url\":\"\",\"is_external\":\"true\",\"nofollow\":\"\"}},{\"social\":\"fa fa-envelope\",\"link\":{\"url\":\"mailto:info@surendo.co.id\",\"is_external\":\"true\",\"nofollow\":\"\"},\"_id\":\"4525a59\"}],\"shape\":\"square\",\"align\":\"left\",\"icon_color\":\"custom\",\"icon_primary_color\":\"#f4f4f4\",\"icon_secondary_color\":\"#969696\",\"icon_size\":{\"unit\":\"px\",\"size\":25},\"hover_primary_color\":\"rgba(0,206,27,0.25)\",\"hover_secondary_color\":\"#00ce1b\",\"hover_animation\":\"grow\",\"icon_size_tablet\":{\"unit\":\"px\",\"size\":16}},\"elements\":[],\"widgetType\":\"social-icons\"}],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"6607a5a\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"4aaa674\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"35ba3ec\",\"elType\":\"widget\",\"settings\":{\"contact_form_list\":\"129\",\"form_title\":\"yes\",\"form_title_text\":\"Form Kontak SURENDO\"},\"elements\":[],\"widgetType\":\"eael-contact-form-7\"}],\"isInner\":false}],\"isInner\":false}]"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_version",
+        "meta_value": "3.3.0"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_edit_lock",
+        "meta_value": "1647607089:1"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_wp_page_template",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_edit_lock",
+        "meta_value": "1736977922:3"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_wp_page_template",
+        "meta_value": "elementor_header_footer"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_edit_mode",
+        "meta_value": "builder"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_template_type",
+        "meta_value": "wp-post"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_data",
+        "meta_value": "[{\"id\":\"500d7f97\",\"elType\":\"section\",\"settings\":{\"custom_height\":{\"unit\":\"px\",\"size\":1000},\"content_position\":\"middle\",\"structure\":\"22\",\"padding\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"0\",\"bottom\":\"100\",\"left\":\"0\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"25\",\"bottom\":\"100\",\"left\":\"25\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"20\",\"bottom\":\"50\",\"left\":\"20\",\"isLinked\":false},\"reverse_order_mobile\":\"reverse-mobile\",\"content_width\":{\"unit\":\"px\",\"size\":958},\"eael_particle_switch\":\"yes\",\"eael_particle_preset_themes\":\"11\",\"background_background\":\"gradient\",\"background_color\":\"#FFFFFF\",\"background_color_b\":\"#4054b2\",\"background_overlay_background\":\"classic\",\"background_overlay_image\":{\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2021\\/11\\/solar-cell-efficiency-record-1.jpg\",\"id\":591,\"alt\":\"\",\"source\":\"library\"},\"background_overlay_position\":\"bottom right\",\"background_overlay_repeat\":\"no-repeat\",\"background_overlay_size\":\"cover\",\"background_overlay_opacity\":{\"unit\":\"px\",\"size\":0.08,\"sizes\":[]},\"overlay_blend_mode\":\"overlay\",\"color_text\":\"#020101A8\"},\"elements\":[{\"id\":\"42e76403\",\"elType\":\"column\",\"settings\":{\"_column_size\":66,\"_inline_size\":null,\"border_width\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"1\",\"left\":\"0\",\"isLinked\":false},\"border_color\":\"#000000\",\"padding\":{\"unit\":\"%\",\"top\":\"0\",\"right\":\"10\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"25\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"content_position\":\"top\"},\"elements\":[{\"id\":\"9043a24\",\"elType\":\"widget\",\"settings\":{\"title\":\"Surya Energy Indonesia (SURENDO)\",\"title_color\":\"#696969\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":45},\"typography_font_weight\":\"900\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.2},\"typography_font_size_tablet\":{\"unit\":\"px\",\"size\":35},\"header_size\":\"h3\",\"text_shadow_text_shadow\":{\"horizontal\":3,\"vertical\":4,\"blur\":13,\"color\":\"rgba(84,89,95,0.3)\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"6e27531c\",\"elType\":\"widget\",\"settings\":{\"editor\":\"\",\"text_color\":\"#ffffff\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15},\"typography_font_weight\":\"300\",\"typography_text_transform\":\"uppercase\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"adc2a6e\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Kami adalah perusahaan yang bergerak dibidang pabrikasi tiang Penerangan Jalan Umum dan Energi Terbarukan. Melalui perkembangan teknologi yang terus berkembang, kami berusaha memenuhi kebutuhan akan sumber daya energi alternatif yang bisa dimanfaatkan secara berkelanjutan. Kami dipercaya sebagai penyedia energi terbarukan sejak tahun 2008 dan produk kami telah terpakai di seluruh pelosok Indonesia.<br><\\/p>\",\"text_color\":\"#ffffff\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.8}},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"5048d902\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"70955cfd\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":292,\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2019\\/02\\/buku-a3-2019_Page2.png\",\"alt\":\"\",\"source\":\"library\"},\"align\":\"right\",\"image_custom_dimension\":{\"width\":\"300\",\"height\":\"100\"},\"align_mobile\":\"center\",\"opacity\":{\"unit\":\"px\",\"size\":1},\"hide_tablet\":\"hidden-tablet\",\"hide_mobile\":\"hidden-phone\",\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"image_border_radius\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"90b58bc\",\"elType\":\"section\",\"settings\":{\"padding\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"0\",\"bottom\":\"20\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"74e3c23\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"1fa3e40\",\"elType\":\"widget\",\"settings\":{\"title\":\"Produk Surendo\",\"align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"66fab1c\",\"elType\":\"section\",\"settings\":{\"structure\":\"40\"},\"elements\":[{\"id\":\"2bab52b\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"96d6c6c\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2021\\/07\\/PJUTS-STANDO-LOGO-scaled.jpg\",\"id\":557},\"align\":\"center\",\"caption_source\":\"custom\",\"caption\":\"Paket PJU Solarcell 3 In 1 \\/ Konvensional\",\"link_to\":\"custom\",\"link\":{\"url\":\"https:\\/\\/surendo.co.id\\/product-category\\/pju-solarcell-stando\\/\",\"is_external\":\"\",\"nofollow\":\"\"},\"caption_typography_typography\":\"custom\",\"caption_typography_font_weight\":\"bold\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"08972c2\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"9959b33\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2021\\/07\\/AIO-LOGO.jpg\",\"id\":552},\"caption_source\":\"custom\",\"caption\":\"Paket PJU Solarcell ALL IN ONE\",\"link_to\":\"custom\",\"link\":{\"url\":\"product-category\\/pju-tenaga-surya\\/\",\"is_external\":\"\",\"nofollow\":\"\"},\"image_size\":\"medium\",\"caption_typography_typography\":\"custom\",\"caption_typography_font_weight\":\"bold\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"6feeb16\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"35f07cd\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2021\\/07\\/2-in-1-LOGO-scaled.jpg\",\"id\":551},\"caption_source\":\"custom\",\"caption\":\"Paket PJU Solarcell Two in One\",\"link_to\":\"custom\",\"link\":{\"url\":\"\\/product-category\\/pju-solarcell-suritech-2-in-1\",\"is_external\":\"\",\"nofollow\":\"\"},\"caption_typography_typography\":\"custom\",\"caption_typography_font_weight\":\"bold\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"78f024e\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"a6ed3d0\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/surendo.co.id\\/wp-content\\/uploads\\/2019\\/03\\/Warninglight.jpg\",\"id\":349},\"caption_source\":\"custom\",\"caption\":\"Paket Warning Light Solarcell\",\"link_to\":\"custom\",\"link\":{\"url\":\"https:\\/\\/surendo.co.id\\/product-category\\/warninglight-solarcell\\/\",\"is_external\":\"\",\"nofollow\":\"\"},\"align\":\"center\",\"caption_typography_typography\":\"custom\",\"caption_typography_font_weight\":\"bold\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"583a9b1\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"ca4bc0f\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"3feaf9b\",\"elType\":\"widget\",\"settings\":{\"youtube_url\":\"https:\\/\\/www.youtube.com\\/watch?v=_SDbOHIU8Gk&t=2s\",\"vimeo_url\":\"https:\\/\\/vimeo.com\\/235215203\",\"dailymotion_url\":\"https:\\/\\/www.dailymotion.com\\/video\\/x6tqhqb\"},\"elements\":[],\"widgetType\":\"video\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"9ab39b4\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"3d4f6cf\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"8770f19\",\"elType\":\"widget\",\"settings\":{\"title\":\"Our Client\",\"align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"be679d8\",\"elType\":\"section\",\"settings\":{\"structure\":\"50\",\"layout\":\"full_width\",\"gap\":\"narrow\",\"content_position\":\"middle\"},\"elements\":[{\"id\":\"f08a7de\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"space_between_widgets\":0},\"elements\":[{\"id\":\"7151e29\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-1.jpg\",\"id\":220},\"align_mobile\":\"center\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"6d56d06\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"9b44cd3\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-2.jpg\",\"id\":221}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"dec08f2\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"e20384f\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-3.jpg\",\"id\":222}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"abd971a\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"56d1b3e\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-4.jpg\",\"id\":223}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"779b56a\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"8c7f032\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-5.jpg\",\"id\":224}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"bba8af8\",\"elType\":\"section\",\"settings\":{\"structure\":\"50\"},\"elements\":[{\"id\":\"9289d40\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"9db1c90\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-6.jpg\",\"id\":225}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"00c290a\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"e1c8767\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-7.jpg\",\"id\":226}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"53ede9f\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"_inline_size_mobile\":25},\"elements\":[{\"id\":\"b75e821\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-8.jpg\",\"id\":227}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"5c0de1c\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"_inline_size_mobile\":25},\"elements\":[{\"id\":\"5d309c6\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-9.jpg\",\"id\":228}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"19a6898\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null},\"elements\":[{\"id\":\"6808ec6\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/client-10.jpg\",\"id\":229}},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"43a61efd\",\"elType\":\"section\",\"settings\":{\"content_width\":{\"unit\":\"px\",\"size\":700},\"gap\":\"no\",\"custom_height\":{\"unit\":\"px\",\"size\":1200},\"content_position\":\"middle\",\"padding\":{\"unit\":\"px\",\"top\":\"010\",\"right\":\"0\",\"bottom\":\"10\",\"left\":\"0\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"25\",\"bottom\":\"100\",\"left\":\"25\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"20\",\"bottom\":\"50\",\"left\":\"20\",\"isLinked\":false},\"layout\":\"full_width\"},\"elements\":[{\"id\":\"6b1bc5bb\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"92a34bd\",\"elType\":\"widget\",\"settings\":{\"title\":\"Kontak Surendo\",\"header_size\":\"h6\",\"align\":\"center\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":12},\"typography_font_weight\":\"600\",\"typography_text_transform\":\"uppercase\",\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":12}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"470f41f7\",\"elType\":\"widget\",\"settings\":{\"title\":\"031 8783440\",\"align\":\"center\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":55},\"typography_font_weight\":\"900\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.2},\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":45},\"header_size\":\"h6\",\"typography_font_size_tablet\":{\"unit\":\"px\",\"size\":45},\"link\":{\"url\":\"tel:0318783440\",\"is_external\":\"\",\"nofollow\":\"\"}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"194d9d79\",\"elType\":\"widget\",\"settings\":{\"title\":\"Jl. Raya Medayu Utara Kav. 27 Rungkut Surabaya.\",\"header_size\":\"h3\",\"align\":\"center\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":20},\"typography_font_weight\":\"300\",\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":20}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"8081bd8\",\"elType\":\"widget\",\"settings\":{\"social_icon_list\":[{\"social\":\"fa fa-facebook\",\"_id\":\"9c86cde\",\"link\":{\"url\":\"\",\"is_external\":\"true\",\"nofollow\":\"\"}},{\"social\":\"fa fa-instagram\",\"link\":{\"url\":\"https:\\/\\/www.instagram.com\\/suryaenergyindonesia\",\"is_external\":\"true\",\"nofollow\":\"\"},\"_id\":\"7b9d1bc\"},{\"social\":\"fa fa-youtube\",\"link\":{\"url\":\"https:\\/\\/www.youtube.com\\/channel\\/UCxaUL2eb_05u2WzZOkj2h4w\",\"is_external\":\"true\",\"nofollow\":\"\"},\"_id\":\"1cfae18\"}],\"icon_primary_color\":\"rgba(0,0,0,0)\",\"icon_secondary_color\":\"#bfbfbf\",\"icon_size\":{\"unit\":\"px\",\"size\":18},\"icon_spacing\":{\"unit\":\"px\",\"size\":20},\"hover_secondary_color\":\"#00ce1b\",\"hover_animation\":\"grow\",\"_padding\":{\"unit\":\"px\",\"top\":\"20\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"icon_spacing_mobile\":{\"unit\":\"px\",\"size\":12},\"_padding_mobile\":{\"unit\":\"px\",\"top\":\"15\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"social-icons\"}],\"isInner\":false}],\"isInner\":false}]"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_version",
+        "meta_value": "3.3.0"
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_edit_lock",
+        "meta_value": "1549177142:1"
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_wp_page_template",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "187",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_edit_lock",
+        "meta_value": "1549179958:1"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_edit_mode",
+        "meta_value": "builder"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_template_type",
+        "meta_value": "post"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_wp_page_template",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_data",
+        "meta_value": "[{\"id\":\"2c49fce\",\"elType\":\"section\",\"settings\":{\"gap\":\"no\",\"custom_height\":{\"unit\":\"px\",\"size\":1200},\"content_position\":\"middle\",\"padding\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"0\",\"bottom\":\"100\",\"left\":\"0\",\"isLinked\":false},\"padding_tablet\":{\"unit\":\"px\",\"top\":\"100\",\"right\":\"25\",\"bottom\":\"100\",\"left\":\"25\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"20\",\"bottom\":\"50\",\"left\":\"20\",\"isLinked\":false}},\"elements\":[{\"id\":\"c0a3e76\",\"elType\":\"column\",\"settings\":{\"_column_size\":100},\"elements\":[{\"id\":\"3130722\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":235,\"url\":\"https:\\/\\/pju.surabaya-ad.com\\/wp-content\\/uploads\\/2019\\/02\\/69Proyek-PJU-Solarcell-DSO-Djarum-Manyar-GresikWhatsApp-Image-2018-06-29-at-19.35.01.jpeg\"},\"image_size\":\"full\",\"space_mobile\":{\"unit\":\"%\",\"size\":100}},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"180c1e0\",\"elType\":\"widget\",\"settings\":{\"title\":\"About the company\",\"align\":\"left\",\"title_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":55},\"typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"15\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":45},\"header_size\":\"h3\",\"typography_font_size_tablet\":{\"unit\":\"px\",\"size\":45}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"23e7600b\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Surya Energi Indonesia\\u00a0<strong>(SURENDO)<\\/strong>\\u00a0adalah perusahaan yang memproduksi tiang &amp; lampu\\u00a0<strong>Penerangan Jalan Umum<\\/strong>\\u00a0(PJU) baik yang menggunakan listrik PLN maupun yang berasal dari pembangkit listrik\\u00a0<strong>tenaga surya<\\/strong><strong>(SOLAR CELL)<\\/strong>. Kami juga dapat menerima pemesanan sesuai dengan bentuk, ukuran dan desain keinginan anda dan tentunya sesuai standart nasional Indonesia. Kami berdiri pada tahun 2008 di Kota Surabaya dan telah menghasilkan produk - produk andalan dalam negeri yang telah digunakan di seluruh pelosok tanah air.<\\/p><p>\\u00a0\\u00a0\\u00a0\\u00a0\\u00a0\\u00a0\\u00a0 Selain memproduksi tiang lampu\\u00a0penerangan jalan, kami juga menjual berbagai lampu penerangan jalan dan solar cell, serta\\u00a0<strong>electrical<\\/strong>\\u00a0pendukung lainnya. Terima kasih telah mengunjungi website kami dan atas kepercayaan anda dalam memilih produk - produk kami..<\\/p>\",\"text_color\":\"#000000\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"500\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.8}},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"45f1efa4\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\"},\"elements\":[{\"id\":\"6bcc3bd7\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"25\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"6343d0c7\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><span style=\\\"color: #333333;\\\"><strong>Management<\\/strong><\\/span><\\/p><p><span style=\\\"color: #333333;\\\">Jl. Kendalsari Selatan Ruko PCE Blok R19<\\/span><\\/p><p><span style=\\\"color: #333333;\\\">Rungkut Surabaya<\\/span><\\/p><p><span style=\\\"color: #333333;\\\">0318783440\\u00a0<\\/span><\\/p>\",\"text_color\":\"#bfbfbf\",\"typography_typography\":\"custom\",\"typography_font_size\":{\"unit\":\"px\",\"size\":16},\"typography_font_weight\":\"300\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.8}},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":true},{\"id\":\"4e3abe16\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"25\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false}]"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_version",
+        "meta_value": "0.4"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_page_settings",
+        "meta_value": "a:1:{s:18:\"eael_ext_toc_title\";s:17:\"Table of Contents\";}"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "eael_has_transient_elements",
+        "meta_value": ""
+    },
+    {
+        "post_id": "144",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "117",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:1:{i:0;s:14:\"contact-form-7\";}"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "187",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "14",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "12",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "2",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_controls_usage",
+        "meta_value": "a:5:{s:5:\"image\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:13:\"section_image\";a:2:{s:5:\"image\";i:1;s:10:\"image_size\";i:1;}}s:5:\"style\";a:1:{s:19:\"section_style_image\";a:1:{s:12:\"space_mobile\";i:1;}}}}s:7:\"heading\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_title\";a:3:{s:5:\"title\";i:1;s:5:\"align\";i:1;s:11:\"header_size\";i:1;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:6:{s:11:\"title_color\";i:1;s:21:\"typography_typography\";i:1;s:20:\"typography_font_size\";i:1;s:22:\"typography_font_weight\";i:1;s:27:\"typography_font_size_mobile\";i:1;s:27:\"typography_font_size_tablet\";i:1;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:1;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:2;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:5:{s:10:\"text_color\";i:2;s:21:\"typography_typography\";i:2;s:20:\"typography_font_size\";i:2;s:22:\"typography_font_weight\";i:2;s:22:\"typography_line_height\";i:2;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:0;s:8:\"controls\";a:2:{s:6:\"layout\";a:1:{s:6:\"layout\";a:1:{s:12:\"_inline_size\";i:2;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:2:{s:7:\"padding\";i:2;s:14:\"padding_mobile\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:6:\"layout\";a:2:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}s:14:\"section_layout\";a:3:{s:3:\"gap\";i:1;s:13:\"custom_height\";i:1;s:16:\"content_position\";i:1;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:3:{s:7:\"padding\";i:1;s:14:\"padding_tablet\";i:1;s:14:\"padding_mobile\";i:1;}}}}}"
+    },
+    {
+        "post_id": "5",
+        "meta_key": "eael_transient_elements",
+        "meta_value": "a:0:{}"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_page_settings",
+        "meta_value": "a:1:{s:18:\"eael_ext_toc_title\";s:17:\"Table of Contents\";}"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625025634:1"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "522"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "521",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625025799:1"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "524"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "528",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625035024:1"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "523"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "529",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625035494:1"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "525"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "530",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625035632:1"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "526"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "531",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_edit_last",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_edit_lock",
+        "meta_value": "1625035868:1"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "527"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "532",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_elementor_edit_mode",
+        "meta_value": "builder"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_elementor_template_type",
+        "meta_value": "wp-page"
+    },
+    {
+        "post_id": "11",
+        "meta_key": "_elementor_version",
+        "meta_value": "3.3.0"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_page_assets",
+        "meta_value": "a:1:{s:6:\"styles\";a:1:{i:0;s:12:\"e-animations\";}}"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602876:3"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "605"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "604",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_edit_lock",
+        "meta_value": "1665055090:3"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "608"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "607",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_page_assets",
+        "meta_value": "a:1:{s:6:\"styles\";a:1:{i:0;s:12:\"e-animations\";}}"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_edit_lock",
+        "meta_value": "1665243028:3"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "613"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "612",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_edit_lock",
+        "meta_value": "1665243471:3"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "615"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "614",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_edit_lock",
+        "meta_value": "1665483411:3"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "617"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "616",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_edit_lock",
+        "meta_value": "1665485353:3"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "619"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "618",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602756:3"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "623"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "622",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602854:3"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "625"
+    },
+    {
+        "post_id": "624",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602745:3"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "628"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "627",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602736:3"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "631"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "630",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708600915:3"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "637"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "634",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708600892:3"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "645"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "643",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708601061:3"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "649"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "648",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708601159:3"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "651"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "650",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708601148:3"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "653"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "652",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708602712:3"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "657"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "656",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666339904:3"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "660"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "658",
+        "meta_key": "_wp_old_slug",
+        "meta_value": "658"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666340362:3"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "663"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "661",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666340447:3"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "665"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "664",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666341221:3"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "667"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "666",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666341715:3"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "669"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "668",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666342030:3"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "672"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "671",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_edit_lock",
+        "meta_value": "1666342439:3"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "675"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "674",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_eael_widget_elements",
+        "meta_value": "a:1:{s:17:\"section-particles\";s:17:\"section-particles\";}"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_sbi_oembed_done_checking",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_eael_widget_elements",
+        "meta_value": "a:1:{s:14:\"contact-form-7\";s:14:\"contact-form-7\";}"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_oembed_e97e6febf79624dfb63abca9dbb749c1",
+        "meta_value": "<iframe title=\"Cara Instalasi PJU Solarcell\" width=\"843\" height=\"474\" src=\"https://www.youtube.com/embed/_SDbOHIU8Gk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_oembed_time_e97e6febf79624dfb63abca9dbb749c1",
+        "meta_value": "1686485585"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_controls_usage",
+        "meta_value": "a:7:{s:11:\"google_maps\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:11:\"section_map\";a:3:{s:7:\"address\";i:1;s:4:\"zoom\";i:1;s:6:\"height\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:7;s:15:\"control_percent\";i:0;s:8:\"controls\";a:2:{s:6:\"layout\";a:1:{s:6:\"layout\";a:2:{s:12:\"_inline_size\";i:6;s:19:\"_inline_size_tablet\";i:2;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:5:{s:7:\"padding\";i:2;s:14:\"padding_tablet\";i:2;s:13:\"margin_mobile\";i:1;s:14:\"padding_mobile\";i:1;s:13:\"margin_tablet\";i:2;}}}}s:7:\"heading\";a:3:{s:5:\"count\";i:4;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_title\";a:2:{s:5:\"title\";i:4;s:11:\"header_size\";i:4;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:5:{s:11:\"title_color\";i:4;s:21:\"typography_typography\";i:4;s:20:\"typography_font_size\";i:4;s:22:\"typography_font_weight\";i:4;s:25:\"typography_text_transform\";i:4;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:2:{s:7:\"_margin\";i:4;s:8:\"_padding\";i:4;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:5;s:15:\"control_percent\";i:2;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:5;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:5:{s:10:\"text_color\";i:5;s:21:\"typography_typography\";i:5;s:20:\"typography_font_size\";i:5;s:22:\"typography_font_weight\";i:5;s:22:\"typography_line_height\";i:1;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:1:{s:7:\"_margin\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:4;s:15:\"control_percent\";i:0;s:8:\"controls\";a:2:{s:6:\"layout\";a:2:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:3;}s:14:\"section_layout\";a:3:{s:3:\"gap\";i:1;s:13:\"custom_height\";i:1;s:16:\"content_position\";i:1;}}s:8:\"advanced\";a:2:{s:16:\"section_advanced\";a:4:{s:6:\"margin\";i:2;s:7:\"padding\";i:3;s:14:\"padding_tablet\";i:1;s:14:\"padding_mobile\";i:1;}s:19:\"_section_responsive\";a:1:{s:20:\"reverse_order_mobile\";i:1;}}}}s:12:\"social-icons\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:19:\"section_social_icon\";a:3:{s:16:\"social_icon_list\";i:1;s:5:\"shape\";i:1;s:5:\"align\";i:1;}}s:5:\"style\";a:2:{s:20:\"section_social_style\";a:5:{s:10:\"icon_color\";i:1;s:18:\"icon_primary_color\";i:1;s:20:\"icon_secondary_color\";i:1;s:9:\"icon_size\";i:1;s:16:\"icon_size_tablet\";i:1;}s:20:\"section_social_hover\";a:3:{s:19:\"hover_primary_color\";i:1;s:21:\"hover_secondary_color\";i:1;s:15:\"hover_animation\";i:1;}}}}s:19:\"eael-contact-form-7\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:16:\"section_info_box\";a:3:{s:17:\"contact_form_list\";i:1;s:10:\"form_title\";i:1;s:15:\"form_title_text\";i:1;}}}}}"
+    },
+    {
+        "post_id": "119",
+        "meta_key": "_elementor_css",
+        "meta_value": "a:6:{s:4:\"time\";i:1708583573;s:5:\"fonts\";a:0:{}s:5:\"icons\";a:1:{i:0;s:9:\"fa-brands\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_controls_usage",
+        "meta_value": "a:7:{s:7:\"heading\";a:3:{s:5:\"count\";i:6;s:15:\"control_percent\";i:3;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:13:\"section_title\";a:4:{s:5:\"title\";i:6;s:11:\"header_size\";i:4;s:5:\"align\";i:5;s:4:\"link\";i:1;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:10:{s:11:\"title_color\";i:4;s:21:\"typography_typography\";i:4;s:20:\"typography_font_size\";i:4;s:22:\"typography_font_weight\";i:4;s:22:\"typography_line_height\";i:2;s:27:\"typography_font_size_tablet\";i:2;s:23:\"text_shadow_text_shadow\";i:1;s:25:\"typography_text_transform\";i:1;s:25:\"typography_letter_spacing\";i:1;s:27:\"typography_font_size_mobile\";i:2;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:2;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:6:{s:10:\"text_color\";i:2;s:21:\"typography_typography\";i:2;s:20:\"typography_font_size\";i:2;s:22:\"typography_font_weight\";i:2;s:25:\"typography_text_transform\";i:1;s:22:\"typography_line_height\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:20;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:6:\"layout\";a:1:{s:6:\"layout\";a:4:{s:12:\"_inline_size\";i:17;s:16:\"content_position\";i:1;s:21:\"space_between_widgets\";i:1;s:19:\"_inline_size_mobile\";i:2;}}s:5:\"style\";a:1:{s:14:\"section_border\";a:2:{s:12:\"border_width\";i:1;s:12:\"border_color\";i:1;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:2:{s:7:\"padding\";i:1;s:14:\"padding_mobile\";i:1;}}}}s:5:\"image\";a:3:{s:5:\"count\";i:15;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_image\";a:9:{s:5:\"image\";i:15;s:5:\"align\";i:3;s:22:\"image_custom_dimension\";i:1;s:12:\"align_mobile\";i:2;s:14:\"caption_source\";i:4;s:7:\"caption\";i:4;s:7:\"link_to\";i:4;s:4:\"link\";i:4;s:10:\"image_size\";i:1;}}s:5:\"style\";a:2:{s:19:\"section_style_image\";a:3:{s:7:\"opacity\";i:1;s:5:\"width\";i:1;s:19:\"image_border_radius\";i:1;}s:21:\"section_style_caption\";a:2:{s:29:\"caption_typography_typography\";i:4;s:30:\"caption_typography_font_weight\";i:4;}}s:8:\"advanced\";a:1:{s:19:\"_section_responsive\";a:2:{s:11:\"hide_tablet\";i:1;s:11:\"hide_mobile\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:8;s:15:\"control_percent\";i:2;s:8:\"controls\";a:3:{s:6:\"layout\";a:2:{s:14:\"section_layout\";a:5:{s:13:\"custom_height\";i:2;s:16:\"content_position\";i:3;s:13:\"content_width\";i:2;s:6:\"layout\";i:2;s:3:\"gap\";i:2;}s:17:\"section_structure\";a:1:{s:9:\"structure\";i:4;}}s:8:\"advanced\";a:2:{s:16:\"section_advanced\";a:3:{s:7:\"padding\";i:3;s:14:\"padding_tablet\";i:2;s:14:\"padding_mobile\";i:2;}s:19:\"_section_responsive\";a:1:{s:20:\"reverse_order_mobile\";i:1;}}s:5:\"style\";a:3:{s:18:\"section_background\";a:3:{s:21:\"background_background\";i:1;s:16:\"background_color\";i:1;s:18:\"background_color_b\";i:1;}s:26:\"section_background_overlay\";a:7:{s:29:\"background_overlay_background\";i:1;s:24:\"background_overlay_image\";i:1;s:27:\"background_overlay_position\";i:1;s:25:\"background_overlay_repeat\";i:1;s:23:\"background_overlay_size\";i:1;s:26:\"background_overlay_opacity\";i:1;s:18:\"overlay_blend_mode\";i:1;}s:12:\"section_typo\";a:1:{s:10:\"color_text\";i:1;}}}}s:5:\"video\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:13:\"section_video\";a:1:{s:11:\"youtube_url\";i:1;}}}}s:12:\"social-icons\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:19:\"section_social_icon\";a:1:{s:16:\"social_icon_list\";i:1;}}s:5:\"style\";a:2:{s:20:\"section_social_style\";a:5:{s:18:\"icon_primary_color\";i:1;s:20:\"icon_secondary_color\";i:1;s:9:\"icon_size\";i:1;s:12:\"icon_spacing\";i:1;s:19:\"icon_spacing_mobile\";i:1;}s:20:\"section_social_hover\";a:2:{s:21:\"hover_secondary_color\";i:1;s:15:\"hover_animation\";i:1;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:2:{s:8:\"_padding\";i:1;s:15:\"_padding_mobile\";i:1;}}}}}"
+    },
+    {
+        "post_id": "144",
+        "meta_key": "_elementor_css",
+        "meta_value": "a:6:{s:4:\"time\";i:1708584607;s:5:\"fonts\";a:0:{}s:5:\"icons\";a:1:{i:0;s:9:\"fa-brands\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+    },
+    {
+        "post_id": "232",
+        "meta_key": "_elementor_css",
+        "meta_value": "a:6:{s:4:\"time\";i:1708594173;s:5:\"fonts\";a:0:{}s:5:\"icons\";a:0:{}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708603826:3"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "698"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "698"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "697",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708604343:3"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "700"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "700"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "699",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708605464:3"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "702"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "702"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "701",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708691461:3"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "704"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "704"
+    },
+    {
+        "post_id": "703",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708745716:3"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "709"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "709"
+    },
+    {
+        "post_id": "706",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_edit_lock",
+        "meta_value": "1708746979:3"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_edit_last",
+        "meta_value": "3"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "total_sales",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_tax_status",
+        "meta_value": "taxable"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_tax_class",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_manage_stock",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_backorders",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_sold_individually",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_virtual",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_downloadable",
+        "meta_value": "no"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_download_limit",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_download_expiry",
+        "meta_value": "-1"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_stock",
+        "meta_value": null
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_stock_status",
+        "meta_value": "instock"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_wc_average_rating",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_wc_review_count",
+        "meta_value": "0"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_product_version",
+        "meta_value": "4.1.0"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_content_layout",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_sidebar",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_disable_header",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_disable_page_title",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_disable_footer_main",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_disable_footer_bottom",
+        "meta_value": ""
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_customify_page_header_display",
+        "meta_value": "default"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_thumbnail_id",
+        "meta_value": "712"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_product_image_gallery",
+        "meta_value": "712"
+    },
+    {
+        "post_id": "710",
+        "meta_key": "_wpas_done_all",
+        "meta_value": "1"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "_edit_lock",
+        "meta_value": "1736977710:3"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "_elementor_edit_mode",
+        "meta_value": "builder"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "_elementor_template_type",
+        "meta_value": "wp-post"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "_elementor_version",
+        "meta_value": "3.3.0"
+    },
+    {
+        "post_id": "1",
+        "meta_key": "_elementor_css",
+        "meta_value": "a:7:{s:4:\"time\";i:1738316349;s:5:\"fonts\";a:0:{}s:5:\"icons\";a:0:{}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:5:\"empty\";i:0;s:0:\"\";s:3:\"css\";s:0:\"\";}"
+    }
+]

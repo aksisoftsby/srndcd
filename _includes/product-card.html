@@ -1,0 +1,5 @@
+<div class="card">
+  <a href="{{ p.url | relative_url }}"><img src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy" onerror="this.onerror=null;this.src='https://surendo.co.id{{ p.image }}'"></a>
+  <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+  <a class="btn" href="{{ p.url | relative_url }}">Lihat Detail</a>
+</div>

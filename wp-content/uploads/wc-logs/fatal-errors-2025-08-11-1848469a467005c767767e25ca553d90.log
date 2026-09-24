@@ -1,0 +1,2 @@
+2025-08-11T23:52:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8388616 bytes) di /var/www/html/surendo.co.id/wp-includes/class-wpdb.php pada baris 2154
+

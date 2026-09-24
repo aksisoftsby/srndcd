@@ -1,0 +1,2 @@
+2024-02-22T06:04:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 4198400 bytes) di /var/www/html/surendo.co.id/wp-includes/functions.php pada baris 4247
+

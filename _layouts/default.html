@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'id' }}">
+{% include head.html %}
+<body class="{{ page.body_class | default: 'page' }}">
+  {% include header.html %}
+  <main id="site-content">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

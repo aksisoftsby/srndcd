@@ -1,0 +1,6 @@
+bash: line 1: pju.surabaya-ad.com: command not found
+--------------
+SELECT option_name, LEFT(option_value,500) FROM .wp_options WHERE option_name IN ('blogname','blogdescription','siteurl','home','template','stylesheet','woocommerce_permalinks','permalink_structure')
+--------------
+
+ERROR 1046 (3D000) at line 1: No database selected
