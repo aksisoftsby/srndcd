@@ -1,18 +1,15 @@
 ---
 layout: default
-body_class: archive tax-product_cat woocommerce woocommerce-page
+body_class: archive post-type-archive-product woocommerce woocommerce-page
 ---
 <div id="content" class="site-content"><div class="customify-container"><div class="customify-grid">
   <main id="site-content" class="content-area customify-col-9_sm-12">
     <div class="content-inner">
-      <nav class="woocommerce-breadcrumb"><a href="{{ '/' | relative_url }}">Home</a>&nbsp;/&nbsp;Produk&nbsp;/&nbsp;{{ page.title }}</nav>
+      <nav class="woocommerce-breadcrumb"><a href="{{ '/' | relative_url }}">Home</a>&nbsp;/&nbsp;Produk</nav>
       <div class="woocommerce-listing wc-product-listing wc-grid-view">
         <div class="wc-catalog-header"><h1 class="woocommerce-products-header__title page-title">{{ page.title }}</h1></div>
-        {% assign items = site.products | where_exp: 'p', 'p.categories' %}
-        {% assign plist = '' | split: '' %}
-        {% for p in items %}{% for c in p.categories %}{% if c.slug == page.slug %}{% assign plist = plist | push: p %}{% endif %}{% endfor %}{% endfor %}
         <ul class="products columns-4">
-          {% for p in plist %}
+          {% for p in site.products %}
           <li class="customify-col product type-product">
             <div class="wc-product-inner">
               <div class="wc-product-media"><a href="{{ p.url | relative_url }}" class="woocommerce-loop-product__link"><img src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy" /></a></div>

@@ -1,12 +1,52 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'id' }}">
-{% include head.html %}
-<body class="{{ page.body_class | default: 'page' }}">
-  {% include header.html %}
-  <main id="site-content">
-    {{ content }}
-  </main>
-  {% include footer.html %}
-  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+{% seo %}
+<link rel="stylesheet" href="{{ '/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/themes/customify/assets/css/compatibility/woocommerce-smallscreen.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/css/frontend.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/elementor/css/global.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/elementor/css/post-144.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/themes/customify/style.min.css' | relative_url }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C500%2C700%2C900%7CRoboto+Slab%3A100%2C300%2C400%2C700&display=auto">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/ml-slider/assets/metaslider/public.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/lib/animations/animations.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+{% if layout.hide_titlebar %}<style type="text/css">#page-titlebar{display:none;}</style>{% endif %}
+<style type="text/css">.metaslider .caption-wrap{display:none;}</style>
+</head>
+<body class="{{ layout.body_class | default: 'page' }} wp-custom-logo theme-customify content main-layout-content sidebar_vertical_border site-full-width menu_sidebar_slide_left elementor-default elementor-template-full-width">
+<div id="page" class="site box-shadow">
+  <a class="skip-link screen-reader-text" href="#site-content">Lompat ke konten</a>
+{% include header-customify.html %}
+{% if layout.hide_titlebar %}{% else %}
+  <div id="page-titlebar" class="page-header--item page-titlebar layout-full-contained">
+    <div class="page-titlebar-inner customify-container">
+      <h1 class="titlebar-title h4">{{ page.titlebar_title | default: page.title }}</h1>
+    </div>
+  </div>
+{% endif %}
+{{ content }}
+{% include footer-customify.html %}
+</div><!-- #page -->
+<div id="mobile-nav-panel" aria-hidden="true">
+  <div class="mobile-nav-panel-inner">
+    <a class="close is-size-medium close-mobile-nav" href="#"><span class="screen-reader-text">Tutup</span></a>
+    <nav class="site-navigation mobile-nav">{% include nav.html %}</nav>
+  </div>
+</div>
+<script src="{{ '/vendor/jquery/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/vendor/jquery/jquery-migrate.min.js' | relative_url }}"></script>
+<script src="{{ '/wp-content/themes/customify/assets/js/theme.min.js' | relative_url }}"></script>
+<script src="{{ '/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
 </html>
