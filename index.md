@@ -47,15 +47,7 @@ excerpt: "Pabrikasi tiang Penerangan Jalan Umum (PJU) dan Energi Terbarukan seja
 <h6>Kontak Surendo</h6>
 <h6><a href="tel:0318783440">031 8783440</a></h6>
 <h3>Jl. Raya Medayu Utara Kav. 27 Rungkut Surabaya.</h3>
-<a target="_blank" rel="noopener">
-<p>Facebook</p>
-</a>
-<a href="https://www.instagram.com/suryaenergyindonesia" target="_blank" rel="noopener">
-<p>Instagram</p>
-</a>
-<a href="https://www.youtube.com/channel/UCxaUL2eb_05u2WzZOkj2h4w" target="_blank" rel="noopener">
-<p>Youtube</p>
-</a>
+<p><a href="https://www.instagram.com/suryaenergyindonesia" target="_blank" rel="noopener">Instagram</a> | <a href="https://www.youtube.com/channel/UCxaUL2eb_05u2WzZOkj2h4w" target="_blank" rel="noopener">Youtube</a> | Facebook</p>
 
 <h2>Produk Unggulan</h2>
 

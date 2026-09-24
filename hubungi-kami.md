@@ -13,19 +13,6 @@ wp_id: 119
 <p>Jam Operasional</p>
 <p>SENIN-SABTU 09:00 - 19:00</p>
 <p>Follow Us</p>
-<a href="https://www.instagram.com/suryaenergiindonesia" target="_blank" rel="noopener">
-<p>Instagram</p>
-</a>
-<a target="_blank" rel="noopener">
-<p>Twitter</p>
-</a>
-<a target="_blank" rel="noopener">
-<p>Facebook</p>
-</a>
-<a href="mailto:info@surendo.co.id" target="_blank" rel="noopener">
-<p>Envelope</p>
-</a>
-<h3>
-<p>Form Kontak SURENDO</p>
-</h3>
+<p><a href="https://www.instagram.com/suryaenergiindonesia" target="_blank" rel="noopener">Instagram</a> | <a href="mailto:info@surendo.co.id">info@surendo.co.id</a></p>
+<h3>Form Kontak SURENDO</h3>
 {% include contact-form.html %}
