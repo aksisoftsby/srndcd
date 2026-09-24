@@ -1,0 +1,66 @@
+2026-04-16T00:33:40+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T03:52:16+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T04:11:29+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T04:11:35+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T05:05:29+00:00 CRITICAL Uncaught TypeError: array_intersect(): Argument #2 must be of type array, string given in /var/www/html/surendo.co.id/wp-content/plugins/download-manager/libs/class.MediaAccessControl.php:80
+Stack trace:
+#0 /var/www/html/surendo.co.id/wp-content/plugins/download-manager/libs/class.MediaAccessControl.php(80): array_intersect()
+#1 /var/www/html/surendo.co.id/wp-includes/class-wp-hook.php(308): WPDM\MediaAccessControl->protectMediaLibrary()
+#2 /var/www/html/surendo.co.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /var/www/html/surendo.co.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/surendo.co.id/wp-settings.php(617): do_action()
+#5 /var/www/html/surendo.co.id/wp-config.php(100): require_once('...')
+#6 /var/www/html/surendo.co.id/wp-load.php(50): require_once('...')
+#7 /var/www/html/surendo.co.id/wp-blog-header.php(13): require_once('...')
+#8 /var/www/html/surendo.co.id/index.php(18): require('...')
+#9 {main}
+  thrown di /var/www/html/surendo.co.id/wp-content/plugins/download-manager/libs/class.MediaAccessControl.php pada baris 80
+
+2026-04-16T05:25:37+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T08:07:41+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T08:36:28+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T09:32:27+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T09:32:30+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T09:32:33+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T09:32:37+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T15:30:16+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T15:31:03+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T15:31:55+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T16:10:37+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T16:17:26+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T17:08:30+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T18:43:11+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T18:54:26+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T19:16:28+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T19:16:42+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T19:17:53+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T19:20:35+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T19:20:37+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T21:17:35+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+
+2026-04-16T22:32:28+00:00 CRITICAL Declaration of Sbi\Helpers\PluginSilentUpgrader::download_package($package, $check_signatures = false) must be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = []) di /var/www/html/surendo.co.id/wp-content/plugins/instagram-feed/inc/admin/PluginSilentUpgrader.php pada baris 279
+

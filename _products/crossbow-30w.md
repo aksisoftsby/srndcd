@@ -7,6 +7,7 @@ categories:
     name: "PJU Solarcell 2 In 1"
 wp_id: 650
 permalink: /product/crossbow-30w/
+image: "/assets/uploads/2022/10/Crossbow-30W-scaled.jpeg"
 ---
 
 <img class="alignnone size-full wp-image-651" src="/assets/uploads/2022/10/Crossbow-30W-scaled.jpeg" alt="" width="707" height="1000">

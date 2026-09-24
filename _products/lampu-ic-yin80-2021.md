@@ -7,48 +7,47 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 664
 permalink: /product/lampu-ic-yin80-2021/
+image: "/assets/uploads/2022/10/Lampu-IC-YIN80-2021-small-scaled.jpg"
 ---
 
-LAMPU 80W
+<p>LAMPU 80W</p>
 
-CCT 6500K
+<p>CCT 6500K</p>
 
-WATERPROOF IP66
+<p>WATERPROOF IP66</p>
 
-MATERIAL Aluminium
+<p>MATERIAL Aluminium</p>
 
-LUMENS &gt;12,780lm
+<p>LUMENS &gt;12,780lm</p>
 
-LED Chip Philips 30 *30
+<p>LED Chip Philips 30 *30</p>
 
-PV POWER 160WP
+<p>PV POWER 160WP</p>
 
-BATTERY LifePo4 683 WH 12.8V
+<p>BATTERY LifePo4 683 WH 12.8V</p>
 
-DISCHARGE TIME 5-6 Hours
+<p>DISCHARGE TIME 5-6 Hours</p>
 
-I. HEIGHT 8-10 M
+<p>I. HEIGHT 8-10 M</p>
 
-R.W L.U TIME 3 Days
+<p>R.W L.U TIME 3 Days</p>
 
-LED QUANTITY 150Pcs
+<p>LED QUANTITY 150Pcs</p>
 
-CONTROLLER 15A
+<p>CONTROLLER 15A</p>
 
-V. CONTROLLER 12V
+<p>V. CONTROLLER 12V</p>
 
-BEAM ANGLE 150°X 60°
+<p>BEAM ANGLE 150°X 60°</p>
 
-CABLE 3M
+<p>CABLE 3M</p>
 
-COLOR BODY L. Black
+<p>COLOR BODY L. Black</p>
 
-WORK SYSTEM Dimming
+<p>WORK SYSTEM Dimming</p>
 
-WARRANTY 3 Years
+<p>WARRANTY 3 Years</p>
 
-LIFE TIME 5-7 Years
-
-
+<p>LIFE TIME 5-7 Years</p>
 
 <img class="alignnone size-full wp-image-665" src="/assets/uploads/2022/10/Lampu-IC-YIN80-2021-small-scaled.jpg" alt="" width="667" height="1000">

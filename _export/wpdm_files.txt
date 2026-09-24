@@ -1,6 +1,0 @@
-bash: line 1: pju.surabaya-ad.com: command not found
---------------
-SELECT post_id, meta_key, LEFT(meta_value,500) as meta_value FROM .wp_postmeta WHERE meta_key LIKE '%wpdm%' ORDER BY post_id LIMIT 100
---------------
-
-ERROR 1046 (3D000) at line 1: No database selected

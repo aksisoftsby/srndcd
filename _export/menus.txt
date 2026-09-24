@@ -1,7 +1,0 @@
-bash: line 1: pju.surabaya-ad.com: command not found
-bash: line 1: pju.surabaya-ad.com: command not found
---------------
-SELECT p.ID, p.post_title, p.post_name, p.menu_order, m.meta_value as url, p.post_parent, p.post_excerpt FROM .wp_posts p LEFT JOIN .wp_postmeta m ON p.ID=m.post_id AND m.meta_key='_menu_item_url' WHERE p.post_type='nav_menu_item' AND p.post_status='publish' ORDER BY p.menu_order
---------------
-
-ERROR 1046 (3D000) at line 1: No database selected

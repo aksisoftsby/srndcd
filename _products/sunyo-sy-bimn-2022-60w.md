@@ -7,14 +7,11 @@ categories:
     name: "PJU Solarcell 2 In 1"
 wp_id: 703
 permalink: /product/sunyo-sy-bimn-2022-60w/
+image: "/assets/uploads/2024/02/Salinan-02-SY-BIMN-2022-60W-min-scaled.jpg"
 ---
 
-SY-BIMN 2022 - 60W
-
-
+<p>SY-BIMN 2022 - 60W</p>
 
 <img class="alignnone size-full wp-image-704" src="/assets/uploads/2024/02/Salinan-02-SY-BIMN-2022-60W-min-scaled.jpg" alt="" width="718" height="1000">
 
-
-
-&nbsp;
+<p>&nbsp;</p>

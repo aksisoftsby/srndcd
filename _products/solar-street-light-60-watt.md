@@ -7,46 +7,43 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 612
 permalink: /product/solar-street-light-60-watt/
+image: "/assets/uploads/2022/10/60W-scaled.jpeg"
 ---
 
-60W
+<p>60W</p>
 
-Solar Street Light
+<p>Solar Street Light</p>
 
-MODEL 60-A10
+<p>MODEL 60-A10</p>
 
-LAMP BODY MATERIAL 6063GB pull up aluminium
+<p>LAMP BODY MATERIAL 6063GB pull up aluminium</p>
 
-SOLAR PANEL MAXIMUM POWER 18V75W&nbsp;
+<p>SOLAR PANEL MAXIMUM POWER 18V75W&nbsp;</p>
 
-BATTERY TYPE &nbsp;lithium battery 40 AH
+<p>BATTERY TYPE &nbsp;lithium battery 40 AH</p>
 
-DISCHARGE TIME&nbsp; 8-12 hours (optional)
+<p>DISCHARGE TIME&nbsp; 8-12 hours (optional)</p>
 
-RECOMMENDED INSTALLATION HEIGHT &nbsp;7-9 m
+<p>RECOMMENDED INSTALLATION HEIGHT &nbsp;7-9 m</p>
 
-RAINY WEATHER LIGHT UP TIME &nbsp;3 days
+<p>RAINY WEATHER LIGHT UP TIME &nbsp;3 days</p>
 
-WARRANTY&nbsp;2 years
+<p>WARRANTY&nbsp;2 years</p>
 
-LIGHT SOURCE TYPE&nbsp;Philips chip SMD35•35
+<p>LIGHT SOURCE TYPE&nbsp;Philips chip SMD35•35</p>
 
-LUMENS&nbsp;6600LM
+<p>LUMENS&nbsp;6600LM</p>
 
-WATERPROOF GRADE&nbsp;IP65
+<p>WATERPROOF GRADE&nbsp;IP65</p>
 
-AMBIENT TEMPERATURE -20 degrees-+45 degrees
+<p>AMBIENT TEMPERATURE -20 degrees-+45 degrees</p>
 
-LIGHT EMITTING ANGLE 12rix60°
+<p>LIGHT EMITTING ANGLE 12rix60°</p>
 
-COLOR WH/WWH
+<p>COLOR WH/WWH</p>
 
-PRODUCT SIZE 1240x338x45 mm
+<p>PRODUCT SIZE 1240x338x45 mm</p>
 
-
-
-I C 0 M
-
-
+<p>I C 0 M</p>
 
 <img class="alignnone wp-image-613 size-full" src="/assets/uploads/2022/10/60W-scaled.jpeg" alt="" width="712" height="1000">

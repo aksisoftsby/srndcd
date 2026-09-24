@@ -7,13 +7,12 @@ categories:
     name: "PJU Solarcell 2 In 1"
 wp_id: 604
 permalink: /product/2-in-1-icom-60w-ic-yin/
+image: "/assets/uploads/2022/10/2-in-1-ICOM-60W-IC-YIN-scaled.jpeg"
 ---
 
 <img class="alignnone wp-image-605 size-full" src="/assets/uploads/2022/10/2-in-1-ICOM-60W-IC-YIN-scaled.jpeg" alt="" width="777" height="1000">
 
-
-
-&nbsp;
+<p>&nbsp;</p>
 
 <h4 style="text-align: center;"><strong><em>LAMPU JALAN TWO IN ONE MODEL ICOM 60 WATT ( IC-YIN60 )</em></strong></h4>
 

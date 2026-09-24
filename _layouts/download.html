@@ -4,5 +4,8 @@ layout: default
 <article class="download">
   <header class="page-header"><h1>{{ page.title }}</h1></header>
   <div class="page-body">{{ content }}</div>
-  {% if page.file %}<p><a class="btn" href="{{ page.file | relative_url }}" download>Download File</a></p>{% endif %}
+  {% if page.thumbnail %}<p><img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" loading="lazy"></p>{% endif %}
+  {% if page.file %}<p><a class="btn" href="{{ page.file | relative_url }}" download>Download {{ page.file | split: "/" | last }}</a></p>{% endif %}
+  <p class="note">Butuh penawaran atau file lain? <a href="{{ '/hubungi-kami/' | relative_url }}">Hubungi kami</a>
+  atau WhatsApp <a href="{{ site.whatsapp.danang }}" target="_blank" rel="noopener">082276398888</a>.</p>
 </article>

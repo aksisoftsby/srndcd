@@ -5,9 +5,10 @@ layout: default
   <nav class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/produk/' | relative_url }}">Produk</a> / {{ page.title }}</nav>
   <div class="product-grid">
     <div class="product-gallery">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" onerror="this.onerror=null;this.src='https://surendo.co.id{{ page.image }}'" />
+      {% if page.image %}<img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
+      {% else %}<span class="card-img big">{{ page.title }}</span>{% endif %}
       {% if page.gallery %}
-      <div class="thumbs">{% for g in page.gallery %}<img src="{{ g | relative_url }}" alt="{{ page.title }}" loading="lazy" onerror="this.onerror=null;this.src='https://surendo.co.id{{ g }}'" />{% endfor %}</div>
+      <div class="thumbs">{% for g in page.gallery %}<img src="{{ g | relative_url }}" alt="{{ page.title }}" loading="lazy" />{% endfor %}</div>
       {% endif %}
     </div>
     <div class="product-info">

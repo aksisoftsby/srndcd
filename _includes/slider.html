@@ -1,5 +1,5 @@
 {% if site.data.sliders %}
 <div class="slider">{% for s in site.data.sliders %}
-  <div class="slide"><img src="{{ s.image | relative_url }}" alt="{{ s.title }}" onerror="this.onerror=null;this.src='https://surendo.co.id{{ s.image }}'">{% if s.title %}<p>{{ s.title }}</p>{% endif %}</div>
+  <div class="slide"><img src="{{ s.image | relative_url }}" alt="{{ s.title }}" loading="lazy">{% if s.title %}<p>{{ s.title }}</p>{% endif %}</div>
 {% endfor %}</div>
 {% endif %}

@@ -7,40 +7,39 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 618
 permalink: /product/solar-street-light-100-w/
+image: "/assets/uploads/2022/10/AIO-ICOM-100W-NEW-scaled.jpeg"
 ---
 
-MODEL 100W
+<p>MODEL 100W</p>
 
-Solar Street Light 100A10
+<p>Solar Street Light 100A10</p>
 
-LAMP BODY MATERIAL 6063GB pull up aluminium
+<p>LAMP BODY MATERIAL 6063GB pull up aluminium</p>
 
-SOLAR PANEL MAXIMUM POWER 18V136W
+<p>SOLAR PANEL MAXIMUM POWER 18V136W</p>
 
-BATTERY TYPE lithium battery 60AH
+<p>BATTERY TYPE lithium battery 60AH</p>
 
-DISCHARGE TIME 8-12 hours (optional)
+<p>DISCHARGE TIME 8-12 hours (optional)</p>
 
-RECOMMENDED INSTALLATION HEIGHT 7-9 m
+<p>RECOMMENDED INSTALLATION HEIGHT 7-9 m</p>
 
-RAINY WEATHER LIGHT UP TIME 3 days
+<p>RAINY WEATHER LIGHT UP TIME 3 days</p>
 
-WARRANTY 2 years
+<p>WARRANTY 2 years</p>
 
-LIGHT SOURCE TYPE LUMENS Philips chip SMD35*35
+<p>LIGHT SOURCE TYPE LUMENS Philips chip SMD35*35</p>
 
-LUMENS 11000LM
+<p>LUMENS 11000LM</p>
 
-WATERPROOF GRADE IP65
+<p>WATERPROOF GRADE IP65</p>
 
-AMBIENT TEMPERATURE -20 degrees-+45 degrees
+<p>AMBIENT TEMPERATURE -20 degrees-+45 degrees</p>
 
-LIGHT EMITTING ANGLE 12°x60°
+<p>LIGHT EMITTING ANGLE 12°x60°</p>
 
-COLOR WH/WWH
+<p>COLOR WH/WWH</p>
 
-PRODUCT SIZE 1200x418x45 mm
-
-
+<p>PRODUCT SIZE 1200x418x45 mm</p>
 
 <img class="alignnone size-full wp-image-619" src="/assets/uploads/2022/10/AIO-ICOM-100W-NEW-scaled.jpeg" alt="" width="712" height="1000">

@@ -7,56 +7,53 @@ categories:
     name: "PJU Solarcell 2 In 1"
 wp_id: 630
 permalink: /product/aio-icom-ic-teen-180w/
+image: "/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-180W-scaled.jpeg"
 ---
 
-AIO ICOM IC-TEEN 180W
+<p>AIO ICOM IC-TEEN 180W</p>
 
+<p>LED Power : 180w</p>
 
+<p>LED Chip : Philips</p>
 
-LED Power : 180w
+<p>Lumens : 1651m/w</p>
 
-LED Chip : Philips
+<p>Viewing Angle : 135 degree</p>
 
-Lumens : 1651m/w
+<p>CCT : 6000k</p>
 
-Viewing Angle : 135 degree
+<p>Lifespan : 55000 hours</p>
 
-CCT : 6000k
+<p>Solar Panel : High Efficiency Monocrystalline</p>
 
-Lifespan : 55000 hours
+<p>Max Power : 190W 6V</p>
 
-Solar Panel : High Efficiency Monocrystalline
+<p>Life Time : 25 Years</p>
 
-Max Power : 190W 6V
+<p>Battery Type : LifePo4</p>
 
-Life Time : 25 Years
+<p>Capacity : 90AH 3.2V</p>
 
-Battery Type : LifePo4
+<p>Life Time : 5-8 Years</p>
 
-Capacity : 90AH 3.2V
+<p>Charger Time by Sun : 8 Hours</p>
 
-Life Time : 5-8 Years
+<p>Full Power Mode : 12 Hours</p>
 
-Charger Time by Sun : 8 Hours
+<p>Working Temperature : 30 - 60 degree</p>
 
-Full Power Mode : 12 Hours
+<p>System : Dimmer</p>
 
-Working Temperature : 30 - 60 degree
+<p>Mounting Height : 9-12 Meters</p>
 
-System : Dimmer
+<p>Space Between Light : 15-25 meters</p>
 
-Mounting Height : 9-12 Meters
+<p>Main Material : Alluminum Alloy</p>
 
-Space Between Light : 15-25 meters
+<p>Waterproof Gross : IP 65</p>
 
-Main Material : Alluminum Alloy
+<p>Gross Weight : 14.1 kg</p>
 
-Waterproof Gross : IP 65
-
-Gross Weight : 14.1 kg
-
-Box Size : 141.7*37*10 cm
-
-
+<p>Box Size : 141.7*37*10 cm</p>
 
 <img class="alignnone size-full wp-image-631" src="/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-180W-scaled.jpeg" alt="" width="661" height="1000">

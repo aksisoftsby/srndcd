@@ -7,40 +7,39 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 671
 permalink: /product/sl-mw100/
+image: "/assets/uploads/2022/10/SL-MW100-1_merged_Page1-scaled.jpg"
 ---
 
-MODEL SL- MW100
+<p>MODEL SL- MW100</p>
 
-LAMP BODY MATERIAL 6062GB Pull up aluminium
+<p>LAMP BODY MATERIAL 6062GB Pull up aluminium</p>
 
-SOLAR PANEL MAXIMUM POWER 155WP 6 V
+<p>SOLAR PANEL MAXIMUM POWER 155WP 6 V</p>
 
-BATTERY TYPE LifePo4 1 02 Ah 3.2V
+<p>BATTERY TYPE LifePo4 1 02 Ah 3.2V</p>
 
-DISCHARGE TIME 8-12 hours (optional)
+<p>DISCHARGE TIME 8-12 hours (optional)</p>
 
-LUMENS 17.638LM
+<p>LUMENS 17.638LM</p>
 
-RECOMENDED INSTALLATION HEIGHT 8-10M
+<p>RECOMENDED INSTALLATION HEIGHT 8-10M</p>
 
-WATERPROOF GRADE IP66
+<p>WATERPROOF GRADE IP66</p>
 
-RAINY WEATHER LIGHT UP TIME 3 Days
+<p>RAINY WEATHER LIGHT UP TIME 3 Days</p>
 
-WARRANTY 3 Years
+<p>WARRANTY 3 Years</p>
 
-LIGHT SOURCE TYPE Philips Chip SMD38 *38
+<p>LIGHT SOURCE TYPE Philips Chip SMD38 *38</p>
 
-AMBIENT TEMPERATURE -20 Degrees ~+45 Degrees
+<p>AMBIENT TEMPERATURE -20 Degrees ~+45 Degrees</p>
 
-LIGHT EMITTING ANGLE 120° x 60°
+<p>LIGHT EMITTING ANGLE 120° x 60°</p>
 
-COLOR WH/WWH
+<p>COLOR WH/WWH</p>
 
-PRODUCT SIZE 1160 x35x135mm
+<p>PRODUCT SIZE 1160 x35x135mm</p>
 
-GROSS WEIGHT 16.7KG
-
-
+<p>GROSS WEIGHT 16.7KG</p>
 
 <img class="alignnone size-full wp-image-672" src="/assets/uploads/2022/10/SL-MW100-1_merged_Page1-scaled.jpg" alt="" width="667" height="1000"> <img class="alignnone size-full wp-image-673" src="/assets/uploads/2022/10/SL-MW100-1_merged_Page2-scaled.jpg" alt="" width="667" height="1000">

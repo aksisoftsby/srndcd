@@ -7,52 +7,51 @@ categories:
     name: "PJU Solarcell 2 In 1"
 wp_id: 627
 permalink: /product/ic-teen-150/
+image: "/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-150W-scaled.jpeg"
 ---
 
-LED Power : 150w
+<p>LED Power : 150w</p>
 
-LED Chip : Philips
+<p>LED Chip : Philips</p>
 
-Lumens : 1651m/w
+<p>Lumens : 1651m/w</p>
 
-Viewing Angle : 135 degree
+<p>Viewing Angle : 135 degree</p>
 
-CCT : 6000k
+<p>CCT : 6000k</p>
 
-Lifespan : 55000 hours
+<p>Lifespan : 55000 hours</p>
 
-Solar Panel : High Efficiency Monocrystalline
+<p>Solar Panel : High Efficiency Monocrystalline</p>
 
-Max Power : 160W 6V
+<p>Max Power : 160W 6V</p>
 
-Life Time : 25 Years
+<p>Life Time : 25 Years</p>
 
-Battery Type : LifePo4
+<p>Battery Type : LifePo4</p>
 
-Capacity : 80AH 3.2V
+<p>Capacity : 80AH 3.2V</p>
 
-Life Time : 5-8 Years
+<p>Life Time : 5-8 Years</p>
 
-Charger Time by Sun : 8 Hours
+<p>Charger Time by Sun : 8 Hours</p>
 
-Full Power Mode : 12 Hours
+<p>Full Power Mode : 12 Hours</p>
 
-Working Temperature : 30 - 60 degree
+<p>Working Temperature : 30 - 60 degree</p>
 
-System : Dimmer
+<p>System : Dimmer</p>
 
-Mounting Height : 6-8 Meters
+<p>Mounting Height : 6-8 Meters</p>
 
-Space Between Light : 15-25 meters
+<p>Space Between Light : 15-25 meters</p>
 
-Main Material : Alluminum Alloy
+<p>Main Material : Alluminum Alloy</p>
 
-Waterproof Gross : IP 65
+<p>Waterproof Gross : IP 65</p>
 
-Gross Weight : 12.8 kg
+<p>Gross Weight : 12.8 kg</p>
 
-Box Size : 119.3*37*10 cm
-
-
+<p>Box Size : 119.3*37*10 cm</p>
 
 <img class="alignnone size-full wp-image-628" src="/assets/uploads/2022/10/AIO-ICOM-IC-TEEN-150W-scaled.jpeg" alt="" width="659" height="1000">

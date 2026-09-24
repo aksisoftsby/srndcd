@@ -1,4 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteRule ^(2022/10/Blue-Fire-60W-New.pdf)$ ../../index.php?wpdmmediaid=636&wpdmmedia=$1
-</IfModule>

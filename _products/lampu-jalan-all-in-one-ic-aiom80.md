@@ -7,56 +7,53 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 614
 permalink: /product/lampu-jalan-all-in-one-ic-aiom80/
+image: "/assets/uploads/2022/10/80W.jpeg"
 ---
 
-Lampu Jalan All-in-one (IC-AIOM80)
+<p>Lampu Jalan All-in-one (IC-AIOM80)</p>
 
+<p>LED Power : 80w</p>
 
+<p>LED Chip : Philips</p>
 
-LED Power : 80w
+<p>Lumens : 1501m/w</p>
 
-LED Chip : Philips
+<p>Viewing Angle : 120 degree</p>
 
-Lumens : 1501m/w
+<p>CCT : 6000K</p>
 
-Viewing Angle : 120 degree
+<p>Lifespan : 50000 hours</p>
 
-CCT : 6000K
+<p>Solar Panel : High Efficiency Monocrystalline</p>
 
-Lifespan : 50000 hours
+<p>Max Power : 90W</p>
 
-Solar Panel : High Efficiency Monocrystalline
+<p>Life Time : 25 Years</p>
 
-Max Power : 90W
+<p>Battery Type : LifePo9</p>
 
-Life Time : 25 Years
+<p>Capacity : 46AH</p>
 
-Battery Type : LifePo9
+<p>Life Time : 5-8 Years</p>
 
-Capacity : 46AH
+<p>Charger Time by Sun : 8 Hours</p>
 
-Life Time : 5-8 Years
+<p>Full Power Mode : 12 Hours</p>
 
-Charger Time by Sun : 8 Hours
+<p>Working Temperature : 30-60 degree</p>
 
-Full Power Mode : 12 Hours
+<p>System : Dimmer</p>
 
-Working Temperature : 30-60 degree
+<p>Mounting Height : 6-8 meters</p>
 
-System : Dimmer
+<p>Space Between Light : 15-25 meters</p>
 
-Mounting Height : 6-8 meters
+<p>Main Material : Aluminum Alloy</p>
 
-Space Between Light : 15-25 meters
+<p>Waterproof : IP65</p>
 
-Main Material : Aluminum Alloy
+<p>Gross Weight : 14 kg</p>
 
-Waterproof : IP65
-
-Gross Weight : 14 kg
-
-Box Size : 114x91x18 cm
-
-
+<p>Box Size : 114x91x18 cm</p>
 
 <img class="alignnone wp-image-615 size-full" src="/assets/uploads/2022/10/80W.jpeg" alt="" width="664" height="833">

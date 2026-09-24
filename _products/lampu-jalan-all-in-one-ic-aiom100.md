@@ -7,56 +7,51 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 616
 permalink: /product/lampu-jalan-all-in-one-ic-aiom100/
+image: "/assets/uploads/2022/10/100W.jpeg"
 ---
 
-LED Power 100w
+<p>LED Power 100w</p>
 
-LED Chip : Philips
+<p>LED Chip : Philips</p>
 
-Lumens : 150Im/w
+<p>Lumens : 150Im/w</p>
 
-Viewing Angle : 120 degree
+<p>Viewing Angle : 120 degree</p>
 
-CCT : 6000K
+<p>CCT : 6000K</p>
 
-Lifespan : 50000 hours
+<p>Lifespan : 50000 hours</p>
 
+<p>Solar Panel : High Efficiency Monocrystalline</p>
 
+<p>Max Power 120W</p>
 
-Solar Panel : High Efficiency Monocrystalline
+<p>Life Time : 25 Years</p>
 
-Max Power 120W
+<p>Battery Type : LifePo4</p>
 
-Life Time : 25 Years
+<p>Capacity : 60AH</p>
 
+<p>Life Time : 5-8 Years</p>
 
+<p>Charger Time by Sun : 8 Hours</p>
 
-Battery Type : LifePo4
+<p>Full Power Mode : 12 Hours</p>
 
-Capacity : 60AH
+<p>Working Temperature : 30-60 degree</p>
 
-Life Time : 5-8 Years
+<p>System : Dimmer</p>
 
-Charger Time by Sun : 8 Hours
+<p>Mounting Height : 8-9 meters</p>
 
-Full Power Mode : 12 Hours
+<p>Space Between Light : 15-25 meters</p>
 
-Working Temperature : 30-60 degree
+<p>Main Material : Aluminum Alloy</p>
 
-System : Dimmer
+<p>Waterproof : IP65</p>
 
-Mounting Height : 8-9 meters
+<p>Gross Weight : 21.3 kg</p>
 
-Space Between Light : 15-25 meters
-
-Main Material : Aluminum Alloy
-
-Waterproof : IP65
-
-Gross Weight : 21.3 kg
-
-Box Size : 136*41*18 cm
-
-
+<p>Box Size : 136*41*18 cm</p>
 
 <img class="alignnone size-full wp-image-617" src="/assets/uploads/2022/10/100W.jpeg" alt="" width="668" height="827">

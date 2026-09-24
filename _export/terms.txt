@@ -1,7 +1,0 @@
-bash: line 1: pju.surabaya-ad.com: command not found
-bash: line 1: pju.surabaya-ad.com: command not found
---------------
-SELECT t.term_id, t.name, t.slug, tt.taxonomy, tt.description, tt.count FROM .wp_terms t JOIN .wp_term_taxonomy tt ON t.term_id=tt.term_id ORDER BY tt.taxonomy, t.name
---------------
-
-ERROR 1046 (3D000) at line 1: No database selected

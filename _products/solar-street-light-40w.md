@@ -7,42 +7,39 @@ categories:
     name: "PJU Solarcell All in One"
 wp_id: 607
 permalink: /product/solar-street-light-40w/
+image: "/assets/uploads/2022/10/40W-scaled.jpeg"
 ---
 
 <img class="alignnone wp-image-608 size-full" src="/assets/uploads/2022/10/40W-scaled.jpeg" alt="" width="706" height="1000">
 
-Solar Street Light
+<p>Solar Street Light</p>
 
+<p>MODEL : 40-A10</p>
 
+<p>LAMP BODY MATERIAL : 6063GB pull up aluminium</p>
 
-MODEL : 40-A10
+<p>SOLAR PANEL MAXIMUM POWER 18V65W</p>
 
+<p>BATTERY TYPE lithium battery 30AH</p>
 
+<p>DISCHARGE TIME 8-12 hours (optional)</p>
 
-LAMP BODY MATERIAL : 6063GB pull up aluminium
+<p>RECOMMENDED INSTALLATION HEIGHT 7-8 m</p>
 
-SOLAR PANEL MAXIMUM POWER 18V65W
+<p>RAINY WEATHER UGHT UP TIME 3 days</p>
 
-BATTERY TYPE lithium battery 30AH
+<p>WARRANTY 2 years</p>
 
-DISCHARGE TIME 8-12 hours (optional)
+<p>UGHT SOURCE TYPE Philips chip SMD35•35</p>
 
-RECOMMENDED INSTALLATION HEIGHT 7-8 m
+<p>LUMENS 4400LM</p>
 
-RAINY WEATHER UGHT UP TIME 3 days
+<p>WATERPROOF GRADE IP65</p>
 
-WARRANTY 2 years
+<p>AMBIENT TEMPERATURE -20 degrees,+45 degrees</p>
 
-UGHT SOURCE TYPE Philips chip SMD35•35
+<p>LIGHT EMITTING ANGLE 120°x60°</p>
 
-LUMENS 4400LM
+<p>COLOR WH/WWH</p>
 
-WATERPROOF GRADE IP65
-
-AMBIENT TEMPERATURE -20 degrees,+45 degrees
-
-LIGHT EMITTING ANGLE 120°x60°
-
-COLOR WH/WWH
-
-PRODUCT SIZE 1070x330x45 mm
+<p>PRODUCT SIZE 1070x330x45 mm</p>
