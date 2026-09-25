@@ -63,6 +63,24 @@
     });
   }
 
+  /* ===== reveal on scroll (slide up / slide in) ===== */
+  var revealEls = document.querySelectorAll('[data-reveal]');
+  if ('IntersectionObserver' in window && revealEls.length) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting) {
+          var d = parseInt(en.target.getAttribute('data-delay') || '0', 10);
+          en.target.style.transitionDelay = d + 'ms';
+          en.target.classList.add('in-view');
+          io.unobserve(en.target);
+        }
+      });
+    }, { threshold: 0.14, rootMargin: '0px 0px -40px 0px' });
+    revealEls.forEach(function (el) { io.observe(el); });
+  } else {
+    revealEls.forEach(function (el) { el.classList.add('in-view'); });
+  }
+
   /* ===== active nav on scroll ===== */
   var sections = ['top', 'tentang', 'produk', 'referensi', 'testimoni', 'kontak']
     .map(function (id) { return document.getElementById(id); })
