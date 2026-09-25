@@ -7,7 +7,7 @@
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
 {% seo %}
 <link rel="stylesheet" href="{{ '/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/wp-content/themes/customify/assets/css/compatibility/woocommerce-smallscreen.min.css' | relative_url }}">
+<link rel="stylesheet" media="screen and (max-width:768px)" href="{{ '/wp-content/themes/customify/assets/css/compatibility/woocommerce-smallscreen.min.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/wp-content/plugins/elementor/assets/css/frontend.min.css' | relative_url }}">

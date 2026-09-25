@@ -83,7 +83,7 @@ img{max-width:100%;height:auto;}
   .products{grid-template-columns:1fr;}
 }
 /* single product */
-.product.type-product{display:flex;flex-wrap:wrap;gap:24px;}
+div.product.type-product{display:flex;flex-wrap:wrap;gap:24px;}
 .woocommerce-product-gallery{flex:1 1 42%;}
 .woocommerce-product-gallery img{width:100%;height:auto;margin-bottom:12px;border:1px solid #eee;}
 .summary{flex:1 1 52%;}
