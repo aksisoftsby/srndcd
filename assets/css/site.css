@@ -97,6 +97,14 @@ div.product.type-product{display:flex;flex-wrap:wrap;gap:24px;}
 .wc-tabs{display:flex;list-style:none;margin:0 0 14px;padding:0;gap:8px;border-bottom:2px solid #eee;}
 .wc-tabs li a{display:block;padding:10px 16px;text-decoration:none;color:#555;font-weight:500;}
 .wc-tabs li.active a{border-bottom:2px solid #e60000;margin-bottom:-2px;color:#e60000;}
+/* floating WhatsApp */
+.wa-float{position:fixed;right:22px;bottom:22px;z-index:998;display:flex;flex-direction:column;align-items:flex-end;gap:10px;}
+.wa-float-panel{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid #e5e5e5;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.18);padding:10px;}
+.wa-float-panel a{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:8px;background:#25d366;color:#fff !important;text-decoration:none;font-size:14px;font-weight:500;white-space:nowrap;}
+.wa-float-panel a:hover{background:#1fb955;}
+.wa-float-btn{display:flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:#25d366;color:#fff !important;font-size:28px;text-decoration:none;box-shadow:0 4px 14px rgba(37,211,102,.5);transition:transform .15s;}
+.wa-float-btn:hover{transform:scale(1.07);}
+.wa-float-btn.is-open{background:#128c7e;}
 /* footer */
 .site-footer{color:#ccc;}
 .footer-main{background:#232323;padding:34px 0;}

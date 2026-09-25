@@ -40,5 +40,20 @@
       $($('.wc-tabs-wrapper .panel')).hide();
       $($(this).attr('href')).show();
     });
+
+    // Floating WhatsApp toggle
+    $(document).on('click', '.wa-float-btn', function (e) {
+      e.preventDefault();
+      var $panel = $('.wa-float-panel');
+      var open = !$panel.prop('hidden');
+      $panel.prop('hidden', open);
+      $(this).attr('aria-expanded', String(!open)).toggleClass('is-open', !open);
+    });
+    $(document).on('click', function (e) {
+      if (!$(e.target).closest('.wa-float').length) {
+        $('.wa-float-panel').prop('hidden', true);
+        $('.wa-float-btn').attr('aria-expanded', 'false').removeClass('is-open');
+      }
+    });
   });
 })(jQuery);
