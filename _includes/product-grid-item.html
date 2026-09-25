@@ -1,0 +1,10 @@
+{% assign thumb = include.p.image %}
+{% if thumb and site.data.thumbs[thumb] %}
+{% assign thumb = site.data.thumbs[thumb] %}
+{% endif %}
+<li class="product type-product{% if forloop.first %} first{% endif %}">
+  <div class="wc-product-inner">
+    <div class="wc-product-media"><a href="{{ include.p.url | relative_url }}" class="woocommerce-loop-product__link"><img src="{{ thumb | relative_url }}" alt="{{ include.p.title }}" loading="lazy" /></a></div>
+    <div class="wc-product-contents"><h2 class="woocommerce-loop-product__title"><a href="{{ include.p.url | relative_url }}">{{ include.p.title }}</a></h2></div>
+  </div>
+</li>

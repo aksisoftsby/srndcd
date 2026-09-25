@@ -8,19 +8,14 @@ body_class: archive tax-product_cat woocommerce woocommerce-page
       <nav class="woocommerce-breadcrumb"><a href="{{ '/' | relative_url }}">Home</a>&nbsp;/&nbsp;Produk&nbsp;/&nbsp;{{ page.title }}</nav>
       <div class="woocommerce-listing wc-product-listing wc-grid-view">
         <div class="wc-catalog-header"><h1 class="woocommerce-products-header__title page-title">{{ page.title }}</h1></div>
-        {% assign items = site.products | where_exp: 'p', 'p.categories' %}
         {% assign plist = '' | split: '' %}
-        {% for p in items %}{% for c in p.categories %}{% if c.slug == page.slug %}{% assign plist = plist | push: p %}{% endif %}{% endfor %}{% endfor %}
+        {% for p in site.products %}{% for c in p.categories %}{% if c.slug == page.slug %}{% assign plist = plist | push: p %}{% endif %}{% endfor %}{% endfor %}
         <ul class="products columns-4">
           {% for p in plist %}
-          <li class="customify-col product type-product">
-            <div class="wc-product-inner">
-              <div class="wc-product-media"><a href="{{ p.url | relative_url }}" class="woocommerce-loop-product__link"><img src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy" /></a></div>
-              <div class="wc-product-contents"><h2 class="woocommerce-loop-product__title"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2></div>
-            </div>
-          </li>
+            {% include product-grid-item.html p=p %}
           {% endfor %}
         </ul>
+        {% if plist.size == 0 %}<p>Belum ada produk dalam kategori ini.</p>{% endif %}
       </div>
     </div>
   </main>
