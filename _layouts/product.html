@@ -18,7 +18,7 @@ body_class: single-product woocommerce woocommerce-page
           <h1 class="product_title entry-title">{{ page.title }}</h1>
           <p class="price"><strong>Call for Price</strong></p>
           <div class="woocommerce-product-details__short-description">
-            {{ content }}
+            {% if page.excerpt %}{{ page.excerpt }}{% endif %}
           </div>
           {% if page.categories %}
           <p class="cats">Kategori: {% for c in page.categories %}<a href="{{ '/product-category/' | append: c.slug | append: '/' | relative_url }}">{{ c.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
