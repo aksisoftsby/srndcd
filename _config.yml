@@ -30,7 +30,6 @@ exclude:
   - Gemfile.lock
   - .github
   - .gitignore
-  - vendor
 keep_files: [download]
 plugins: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
 # Form kontak statis (Contact Form 7 tidak bisa jalan di situs statis)
