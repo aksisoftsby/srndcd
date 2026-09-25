@@ -9,7 +9,7 @@ body_class: archive tax-product_cat woocommerce woocommerce-page
       <div class="woocommerce-listing wc-product-listing wc-grid-view">
         <div class="wc-catalog-header"><h1 class="woocommerce-products-header__title page-title">{{ page.title }}</h1></div>
         {% assign plist = '' | split: '' %}
-        {% for p in site.products %}{% for c in p.categories %}{% if c.slug == page.slug %}{% assign plist = plist | push: p %}{% endif %}{% endfor %}{% endfor %}
+        {% for p in site.products %}{% for c in p.categories %}{% if c.slug == page.cat_slug %}{% assign plist = plist | push: p %}{% endif %}{% endfor %}{% endfor %}
         <ul class="products columns-4">
           {% for p in plist %}
             {% include product-grid-item.html p=p %}
