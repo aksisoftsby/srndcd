@@ -100,6 +100,7 @@ div.product.type-product{display:flex;flex-wrap:wrap;gap:24px;}
 /* floating WhatsApp */
 .wa-float{position:fixed;right:22px;bottom:22px;z-index:998;display:flex;flex-direction:column;align-items:flex-end;gap:10px;}
 .wa-float-panel{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid #e5e5e5;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.18);padding:10px;}
+.wa-float-panel[hidden]{display:none;}
 .wa-float-panel a{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:8px;background:#25d366;color:#fff !important;text-decoration:none;font-size:14px;font-weight:500;white-space:nowrap;}
 .wa-float-panel a:hover{background:#1fb955;}
 .wa-float-btn{display:flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:#25d366;color:#fff !important;font-size:28px;text-decoration:none;box-shadow:0 4px 14px rgba(37,211,102,.5);transition:transform .15s;}
