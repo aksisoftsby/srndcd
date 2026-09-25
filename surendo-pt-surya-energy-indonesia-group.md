@@ -11,6 +11,6 @@ wp_id: 117
 
 <div class="gallery">
 {% for img in site.data.gallery %}
-<a href="{{ img.src | relative_url }}" target="_blank" rel="noopener"><img src="{{ img.src | relative_url }}" alt="{{ img.alt }}" title="{{ img.title }}" loading="lazy" /></a>
+<a href="{{ img.src | relative_url }}" class="gallery-item" data-title="{{ img.title }}" data-index="{{ forloop.index0 }}"><img src="{{ img.src | relative_url }}" alt="{{ img.alt }}" title="{{ img.title }}" loading="lazy" /></a>
 {% endfor %}
 </div>

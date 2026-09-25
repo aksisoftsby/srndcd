@@ -97,6 +97,27 @@ div.product.type-product{display:flex;flex-wrap:wrap;gap:24px;}
 .wc-tabs{display:flex;list-style:none;margin:0 0 14px;padding:0;gap:8px;border-bottom:2px solid #eee;}
 .wc-tabs li a{display:block;padding:10px 16px;text-decoration:none;color:#555;font-weight:500;}
 .wc-tabs li.active a{border-bottom:2px solid #e60000;margin-bottom:-2px;color:#e60000;}
+/* gallery grid */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin:16px 0;}
+.gallery-item{display:block;overflow:hidden;border:1px solid #eee;background:#fafafa;cursor:zoom-in;}
+.gallery-item img{width:100%;height:150px;object-fit:cover;display:block;transition:transform .25s;}
+.gallery-item:hover img{transform:scale(1.06);}
+/* gallery lightbox */
+.glightbox{display:none;position:fixed;inset:0;background:rgba(0,0,0,.92);z-index:1000;}
+.glightbox.open{display:block;}
+.glightbox-stage{position:absolute;inset:0 0 96px;display:flex;align-items:center;justify-content:center;padding:48px 72px;}
+.glightbox-stage img{max-width:100%;max-height:100%;box-shadow:0 8px 40px rgba(0,0,0,.6);}
+.glightbox-caption{position:absolute;left:0;right:0;bottom:72px;text-align:center;color:#ddd;font-size:14px;padding:0 90px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.glightbox-count{position:absolute;top:16px;left:20px;color:#bbb;font-size:14px;}
+.glightbox-close{position:absolute;top:10px;right:14px;width:44px;height:44px;font-size:28px;line-height:44px;text-align:center;color:#ddd;cursor:pointer;user-select:none;}
+.glightbox-close:hover{color:#fff;}
+.glightbox-prev,.glightbox-next{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:72px;line-height:72px;text-align:center;font-size:34px;color:#ddd;cursor:pointer;user-select:none;background:transparent;border:0;}
+.glightbox-prev{left:8px;}
+.glightbox-next{right:8px;}
+.glightbox-prev:hover,.glightbox-next:hover{color:#fff;}
+.glightbox-thumbs{position:absolute;left:0;right:0;bottom:0;height:64px;display:flex;align-items:center;gap:6px;overflow-x:auto;padding:6px 12px;background:rgba(0,0,0,.55);scrollbar-width:thin;}
+.glightbox-thumbs img{height:50px;width:66px;object-fit:cover;cursor:pointer;opacity:.45;flex:0 0 auto;border:2px solid transparent;}
+.glightbox-thumbs img.active{opacity:1;border-color:#e60000;}
 /* floating WhatsApp */
 .wa-float{position:fixed;right:22px;bottom:22px;z-index:998;display:flex;flex-direction:column;align-items:flex-end;gap:10px;}
 .wa-float-panel{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid #e5e5e5;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.18);padding:10px;}
