@@ -5,6 +5,7 @@ permalink: /hubungi-kami/
 wp_id: 119
 ---
 
+<div class="elementor elementor-119">
 <section class="elementor-section elementor-top-section elementor-element elementor-element-5556af72 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default" data-id="5556af72">
   <div class="elementor-container elementor-column-gap-no"><div class="elementor-row">
     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-59f99038" data-id="59f99038"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap">
@@ -74,6 +75,7 @@ wp_id: 119
     </div></div></div>
   </div></div>
 </section>
+</div>
 
 <h3>Form Kontak SURENDO</h3>
 {% include contact-form.html %}
