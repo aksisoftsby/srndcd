@@ -56,18 +56,20 @@ h2{font-size:clamp(24px,3.2vw,36px);font-weight:800;margin-bottom:16px}
 /* ===== hero ===== */
 .hero{position:relative;overflow:hidden;background:var(--navy)}
 .hero-bg{position:absolute;inset:0;z-index:0}
-.hero-slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transform:scale(1.08);transition:opacity 1.4s ease,transform 7s linear}
+.hero-slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transform:scale(1.08);filter:saturate(1.35) contrast(1.07) brightness(1.06);transition:opacity 1.4s ease,transform 7s linear}
 .hero-slide.active{opacity:1;transform:scale(1)}
 .hero-slide.s1{background-image:url("../images/hero-bg-1.jpg")}
 .hero-slide.s2{background-image:url("../images/hero-bg-2.jpg")}
 .hero-slide.s3{background-image:url("../images/hero-bg-3.jpg")}
 .hero-bg::after{content:"";position:absolute;inset:0;background:
-  radial-gradient(900px 500px at 85% 20%, rgba(224,27,44,.25), transparent 60%),
-  linear-gradient(100deg,rgba(11,21,38,.96) 0 34%,rgba(11,21,38,.82) 60%,rgba(11,21,38,.55) 100%)}
+  radial-gradient(900px 500px at 85% 20%, rgba(224,27,44,.14), transparent 55%),
+  linear-gradient(0deg,rgba(11,21,38,.45) 0,transparent 24%),
+  linear-gradient(100deg,rgba(11,21,38,.94) 0 28%,rgba(11,21,38,.68) 50%,rgba(11,21,38,.18) 74%,rgba(11,21,38,.05) 100%)}
 .hero-accent{position:absolute;z-index:1;background:linear-gradient(160deg,rgba(224,27,44,.85),rgba(122,10,20,.6));clip-path:polygon(0 0,100% 0,0 100%)}
 .hero-accent.a1{width:520px;height:520px;top:-220px;left:-140px;opacity:.5}
 .hero-accent.a2{width:340px;height:340px;bottom:-190px;right:26%;opacity:.25;transform:rotate(180deg)}
 .hero-grid{position:relative;z-index:2;display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center;padding-top:70px;padding-bottom:80px}
+.hero-copy{text-shadow:0 1px 16px rgba(9,17,31,.55)}
 @media (prefers-reduced-motion:reduce){.hero-slide{transition:opacity 1.4s ease;transform:none}}
 .eyebrow.light{color:#ffd7db}
 .hero-title{font-size:clamp(52px,7.5vw,92px);font-weight:900;letter-spacing:.01em;color:#fff}
