@@ -39,6 +39,11 @@
 
 <!-- ===== HERO ===== -->
 <section class="hero">
+  <div class="hero-bg" aria-hidden="true">
+    <div class="hero-slide s1 active"></div>
+    <div class="hero-slide s2"></div>
+    <div class="hero-slide s3"></div>
+  </div>
   <div class="hero-accent a1"></div>
   <div class="hero-accent a2"></div>
   <div class="container hero-grid">
@@ -249,12 +254,16 @@
 <!-- ===== KLIEN ===== -->
 <section class="clients">
   <div class="container clients-row" data-reveal="up">
-    <span class="client-logo">KEMENTERIAN<br>PERHUBUNGAN</span>
-    <span class="client-logo">KEMENTERIAN<br>PEKERJAAN UMUM</span>
-    <span class="client-logo strong">PLN</span>
-    <span class="client-logo strong">PERTAMINA</span>
-    <span class="client-logo">Telkom<br>Indonesia</span>
-    <span class="client-logo">PUPUK<br>INDONESIA</span>
+    <img class="client-logo" src="images/client-1.jpg" alt="Klien PT Wijaya Karya">
+    <img class="client-logo" src="images/client-2.jpg" alt="Klien PP">
+    <img class="client-logo" src="images/client-3.jpg" alt="Klien Abipraya">
+    <img class="client-logo" src="images/client-4.jpg" alt="Klien Universitas Negeri Surabaya">
+    <img class="client-logo" src="images/client-5.jpg" alt="Klien CJ">
+    <img class="client-logo" src="images/client-6.jpg" alt="Klien Universitas Airlangga">
+    <img class="client-logo" src="images/client-7.jpg" alt="Klien Pemerintah Kota Surabaya">
+    <img class="client-logo" src="images/client-8.jpg" alt="Klien Djarum">
+    <img class="client-logo" src="images/client-9.jpg" alt="Klien Waskita">
+    <img class="client-logo" src="images/client-10.jpg" alt="Klien Samator">
     <span class="client-logo more">Dan Lainnya</span>
   </div>
 </section>
@@ -372,6 +381,29 @@
     </div>
   </div>
 </footer>
+
+<!-- ===== FLOATING WHATSAPP ===== -->
+<div class="wa-float">
+  <div class="wa-float-panel" id="waPanel" hidden>
+    <div class="wa-panel-head">
+      <strong>Butuh Bantuan? Chat Kami</strong>
+      <button class="wa-close" id="waClose" aria-label="Tutup">&times;</button>
+    </div>
+    <a class="wa-item" href="https://api.whatsapp.com/send?phone=6282276398888&text=Halo%20Surendo" target="_blank" rel="noopener">
+      <span class="wa-ava">D</span>
+      <span class="wa-info"><strong>Danang</strong><small>Customer Service</small></span>
+      <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1-.2.3-.6.8-.8 1-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.4-3c-.3-.4 0-.5.2-.7l.4-.5c.1-.2.1-.3 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.2s1 2.6 1.1 2.7c.1.2 1.9 3 4.7 4.2.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2l-.2-.1z"/></svg>
+    </a>
+    <a class="wa-item" href="https://api.whatsapp.com/send?phone=6281220152888&text=Halo%20Surendo" target="_blank" rel="noopener">
+      <span class="wa-ava">I</span>
+      <span class="wa-info"><strong>Imey</strong><small>Customer Service</small></span>
+      <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1-.2.3-.6.8-.8 1-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.4-3c-.3-.4 0-.5.2-.7l.4-.5c.1-.2.1-.3 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.2s1 2.6 1.1 2.7c.1.2 1.9 3 4.7 4.2.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2l-.2-.1z"/></svg>
+    </a>
+  </div>
+  <button class="wa-btn" id="waToggle" aria-label="Chat WhatsApp">
+    <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1-.2.3-.6.8-.8 1-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.4-3c-.3-.4 0-.5.2-.7l.4-.5c.1-.2.1-.3 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.2s1 2.6 1.1 2.7c.1.2 1.9 3 4.7 4.2.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2l-.2-.1z"/></svg>
+  </button>
+</div>
 
 <script src="js/main.js"></script>
 </body>
